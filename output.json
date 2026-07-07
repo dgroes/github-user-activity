@@ -1,0 +1,485 @@
+[
+    {
+        "id": "14510832682",
+        "type": "PushEvent",
+        "actor": {
+            "id": 91085485,
+            "login": "dgroes",
+            "display_login": "dgroes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dgroes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
+        },
+        "repo": {
+            "id": 1288493371,
+            "name": "dgroes/github-user-activity",
+            "url": "https://api.github.com/repos/dgroes/github-user-activity"
+        },
+        "payload": {
+            "repository_id": 1288493371,
+            "push_id": 36800118782,
+            "ref": "refs/heads/main",
+            "head": "1b348e6a4cd32b1ad84706d9ead08bb390f69d8e",
+            "before": "22f4bb2cb23aa8e2f72f09e47db4ac1d53800f60"
+        },
+        "public": true,
+        "created_at": "2026-07-07T20:19:39Z"
+    },
+    {
+        "id": "14302091726",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 91085485,
+            "login": "dgroes",
+            "display_login": "dgroes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dgroes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
+        },
+        "repo": {
+            "id": 1288493371,
+            "name": "dgroes/github-user-activity",
+            "url": "https://api.github.com/repos/dgroes/github-user-activity"
+        },
+        "payload": {
+            "ref": "main",
+            "ref_type": "branch",
+            "full_ref": "refs/heads/main",
+            "master_branch": "master",
+            "description": null,
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2026-07-03T16:51:56Z"
+    },
+    {
+        "id": "14302066878",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 91085485,
+            "login": "dgroes",
+            "display_login": "dgroes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dgroes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
+        },
+        "repo": {
+            "id": 1288493371,
+            "name": "dgroes/github-user-activity",
+            "url": "https://api.github.com/repos/dgroes/github-user-activity"
+        },
+        "payload": {
+            "ref": "master",
+            "ref_type": "branch",
+            "full_ref": "refs/heads/master",
+            "master_branch": "master",
+            "description": null,
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2026-07-03T16:51:18Z"
+    },
+    {
+        "id": "11233955457",
+        "type": "PullRequestEvent",
+        "actor": {
+            "id": 91085485,
+            "login": "dgroes",
+            "display_login": "dgroes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dgroes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
+        },
+        "repo": {
+            "id": 581049695,
+            "name": "mouredev/retos-programacion-2023",
+            "url": "https://api.github.com/repos/mouredev/retos-programacion-2023"
+        },
+        "payload": {
+            "action": "opened",
+            "number": 6833,
+            "pull_request": {
+                "url": "https://api.github.com/repos/mouredev/retos-programacion-2023/pulls/6833",
+                "id": 3972465621,
+                "number": 6833,
+                "head": {
+                    "ref": "reto-1",
+                    "sha": "bb068abb2a610ab3db6b0ee6de02a87944f7fccd",
+                    "repo": {
+                        "id": 1051390568,
+                        "url": "https://api.github.com/repos/dgroes/retos-programacion-2023",
+                        "name": "retos-programacion-2023"
+                    }
+                },
+                "base": {
+                    "ref": "main",
+                    "sha": "49f4f8493cc16027cd28f6ec7544925b7ea95739",
+                    "repo": {
+                        "id": 581049695,
+                        "url": "https://api.github.com/repos/mouredev/retos-programacion-2023",
+                        "name": "retos-programacion-2023"
+                    }
+                }
+            }
+        },
+        "public": true,
+        "created_at": "2026-07-01T16:54:44Z"
+    },
+    {
+        "id": "11233931068",
+        "type": "PullRequestEvent",
+        "actor": {
+            "id": 91085485,
+            "login": "dgroes",
+            "display_login": "dgroes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dgroes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
+        },
+        "repo": {
+            "id": 581049695,
+            "name": "mouredev/retos-programacion-2023",
+            "url": "https://api.github.com/repos/mouredev/retos-programacion-2023"
+        },
+        "payload": {
+            "action": "opened",
+            "number": 6832,
+            "pull_request": {
+                "url": "https://api.github.com/repos/mouredev/retos-programacion-2023/pulls/6832",
+                "id": 3972461900,
+                "number": 6832,
+                "head": {
+                    "ref": "reto-3",
+                    "sha": "93af71c874c90ae14cc6e12965c3ff7c6e2147fe",
+                    "repo": {
+                        "id": 1051390568,
+                        "url": "https://api.github.com/repos/dgroes/retos-programacion-2023",
+                        "name": "retos-programacion-2023"
+                    }
+                },
+                "base": {
+                    "ref": "main",
+                    "sha": "49f4f8493cc16027cd28f6ec7544925b7ea95739",
+                    "repo": {
+                        "id": 581049695,
+                        "url": "https://api.github.com/repos/mouredev/retos-programacion-2023",
+                        "name": "retos-programacion-2023"
+                    }
+                }
+            }
+        },
+        "public": true,
+        "created_at": "2026-07-01T16:54:10Z"
+    },
+    {
+        "id": "14182436825",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 91085485,
+            "login": "dgroes",
+            "display_login": "dgroes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dgroes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
+        },
+        "repo": {
+            "id": 1051390568,
+            "name": "dgroes/retos-programacion-2023",
+            "url": "https://api.github.com/repos/dgroes/retos-programacion-2023"
+        },
+        "payload": {
+            "ref": "reto-3",
+            "ref_type": "branch",
+            "full_ref": "refs/heads/reto-3",
+            "master_branch": "main",
+            "description": "Ejercicios de c\u00f3digo semanales en 2023 de la comunidad MoureDev para practicar l\u00f3gica en cualquier lenguaje de programaci\u00f3n.",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2026-07-01T16:50:12Z"
+    },
+    {
+        "id": "14182402382",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 91085485,
+            "login": "dgroes",
+            "display_login": "dgroes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dgroes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
+        },
+        "repo": {
+            "id": 1051390568,
+            "name": "dgroes/retos-programacion-2023",
+            "url": "https://api.github.com/repos/dgroes/retos-programacion-2023"
+        },
+        "payload": {
+            "ref": "reto-0",
+            "ref_type": "branch",
+            "full_ref": "refs/heads/reto-0",
+            "master_branch": "main",
+            "description": "Ejercicios de c\u00f3digo semanales en 2023 de la comunidad MoureDev para practicar l\u00f3gica en cualquier lenguaje de programaci\u00f3n.",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2026-07-01T16:49:26Z"
+    },
+    {
+        "id": "14182162022",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 91085485,
+            "login": "dgroes",
+            "display_login": "dgroes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dgroes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
+        },
+        "repo": {
+            "id": 1051390568,
+            "name": "dgroes/retos-programacion-2023",
+            "url": "https://api.github.com/repos/dgroes/retos-programacion-2023"
+        },
+        "payload": {
+            "ref": "reto-2",
+            "ref_type": "branch",
+            "full_ref": "refs/heads/reto-2",
+            "master_branch": "main",
+            "description": "Ejercicios de c\u00f3digo semanales en 2023 de la comunidad MoureDev para practicar l\u00f3gica en cualquier lenguaje de programaci\u00f3n.",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2026-07-01T16:44:00Z"
+    },
+    {
+        "id": "14181956119",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 91085485,
+            "login": "dgroes",
+            "display_login": "dgroes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dgroes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
+        },
+        "repo": {
+            "id": 1051390568,
+            "name": "dgroes/retos-programacion-2023",
+            "url": "https://api.github.com/repos/dgroes/retos-programacion-2023"
+        },
+        "payload": {
+            "ref": "reto-1",
+            "ref_type": "branch",
+            "full_ref": "refs/heads/reto-1",
+            "master_branch": "main",
+            "description": "Ejercicios de c\u00f3digo semanales en 2023 de la comunidad MoureDev para practicar l\u00f3gica en cualquier lenguaje de programaci\u00f3n.",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2026-07-01T16:39:20Z"
+    },
+    {
+        "id": "14181891110",
+        "type": "PushEvent",
+        "actor": {
+            "id": 91085485,
+            "login": "dgroes",
+            "display_login": "dgroes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dgroes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
+        },
+        "repo": {
+            "id": 1051390568,
+            "name": "dgroes/retos-programacion-2023",
+            "url": "https://api.github.com/repos/dgroes/retos-programacion-2023"
+        },
+        "payload": {
+            "repository_id": 1051390568,
+            "push_id": 36470787884,
+            "ref": "refs/heads/main",
+            "head": "49f4f8493cc16027cd28f6ec7544925b7ea95739",
+            "before": "e1e41cadd5c61446310e5c131e4f79053c085f42"
+        },
+        "public": true,
+        "created_at": "2026-07-01T16:37:55Z"
+    },
+    {
+        "id": "11231657254",
+        "type": "PullRequestEvent",
+        "actor": {
+            "id": 91085485,
+            "login": "dgroes",
+            "display_login": "dgroes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dgroes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
+        },
+        "repo": {
+            "id": 581049695,
+            "name": "mouredev/retos-programacion-2023",
+            "url": "https://api.github.com/repos/mouredev/retos-programacion-2023"
+        },
+        "payload": {
+            "action": "closed",
+            "number": 6831,
+            "pull_request": {
+                "url": "https://api.github.com/repos/mouredev/retos-programacion-2023/pulls/6831",
+                "id": 3720446257,
+                "number": 6831,
+                "head": {
+                    "ref": "main",
+                    "sha": "e1e41cadd5c61446310e5c131e4f79053c085f42",
+                    "repo": {
+                        "id": 1051390568,
+                        "url": "https://api.github.com/repos/dgroes/retos-programacion-2023",
+                        "name": "retos-programacion-2023"
+                    }
+                },
+                "base": {
+                    "ref": "main",
+                    "sha": "49f4f8493cc16027cd28f6ec7544925b7ea95739",
+                    "repo": {
+                        "id": 581049695,
+                        "url": "https://api.github.com/repos/mouredev/retos-programacion-2023",
+                        "name": "retos-programacion-2023"
+                    }
+                }
+            }
+        },
+        "public": true,
+        "created_at": "2026-07-01T15:59:00Z"
+    },
+    {
+        "id": "14179865311",
+        "type": "PushEvent",
+        "actor": {
+            "id": 91085485,
+            "login": "dgroes",
+            "display_login": "dgroes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dgroes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
+        },
+        "repo": {
+            "id": 1051390568,
+            "name": "dgroes/retos-programacion-2023",
+            "url": "https://api.github.com/repos/dgroes/retos-programacion-2023"
+        },
+        "payload": {
+            "repository_id": 1051390568,
+            "push_id": 36468759064,
+            "ref": "refs/heads/main",
+            "head": "e1e41cadd5c61446310e5c131e4f79053c085f42",
+            "before": "67170d6172433d128b0d3e2248102a613a8bc137"
+        },
+        "public": true,
+        "created_at": "2026-07-01T15:55:05Z"
+    },
+    {
+        "id": "14177168728",
+        "type": "PushEvent",
+        "actor": {
+            "id": 91085485,
+            "login": "dgroes",
+            "display_login": "dgroes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dgroes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
+        },
+        "repo": {
+            "id": 1051390568,
+            "name": "dgroes/retos-programacion-2023",
+            "url": "https://api.github.com/repos/dgroes/retos-programacion-2023"
+        },
+        "payload": {
+            "repository_id": 1051390568,
+            "push_id": 36466057728,
+            "ref": "refs/heads/main",
+            "head": "67170d6172433d128b0d3e2248102a613a8bc137",
+            "before": "406250156611721dda210d508027859eb2f598e1"
+        },
+        "public": true,
+        "created_at": "2026-07-01T15:01:36Z"
+    },
+    {
+        "id": "13951993764",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 91085485,
+            "login": "dgroes",
+            "display_login": "dgroes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dgroes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
+        },
+        "repo": {
+            "id": 1281716609,
+            "name": "dgroes/solaris",
+            "url": "https://api.github.com/repos/dgroes/solaris"
+        },
+        "payload": {
+            "ref": "main",
+            "ref_type": "branch",
+            "full_ref": "refs/heads/main",
+            "master_branch": "main",
+            "description": null,
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2026-06-26T21:12:36Z"
+    },
+    {
+        "id": "13022894405",
+        "type": "PushEvent",
+        "actor": {
+            "id": 91085485,
+            "login": "dgroes",
+            "display_login": "dgroes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dgroes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
+        },
+        "repo": {
+            "id": 1025600668,
+            "name": "dgroes/Python",
+            "url": "https://api.github.com/repos/dgroes/Python"
+        },
+        "payload": {
+            "repository_id": 1025600668,
+            "push_id": 35312412652,
+            "ref": "refs/heads/master",
+            "head": "4e587848e6c0f9460bdb8fd013afc65ac65534e1",
+            "before": "1b27b86288a9db92651fc41356790c0d8e0a2179"
+        },
+        "public": true,
+        "created_at": "2026-06-09T02:04:28Z"
+    },
+    {
+        "id": "13006369509",
+        "type": "PushEvent",
+        "actor": {
+            "id": 91085485,
+            "login": "dgroes",
+            "display_login": "dgroes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dgroes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
+        },
+        "repo": {
+            "id": 1025600668,
+            "name": "dgroes/Python",
+            "url": "https://api.github.com/repos/dgroes/Python"
+        },
+        "payload": {
+            "repository_id": 1025600668,
+            "push_id": 35295930494,
+            "ref": "refs/heads/master",
+            "head": "1b27b86288a9db92651fc41356790c0d8e0a2179",
+            "before": "1e4c4adb05bdc1fce7276728777f2bd75b45ed77"
+        },
+        "public": true,
+        "created_at": "2026-06-08T18:07:02Z"
+    }
+]
