@@ -1,0 +1,1336 @@
+[
+    {
+        "id": "14424096188",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 354123361,
+            "name": "midudev/midu.link",
+            "url": "https://api.github.com/repos/midudev/midu.link"
+        },
+        "payload": {
+            "repository_id": 354123361,
+            "push_id": 36713387193,
+            "ref": "refs/heads/main",
+            "head": "a4ad9c6497465df9024e09cf7f331a8009182702",
+            "before": "ab6ae4a4f319488d4404acdf06b6db147ceaddd7"
+        },
+        "public": true,
+        "created_at": "2026-07-06T13:50:31Z"
+    },
+    {
+        "id": "14423210567",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 354123361,
+            "name": "midudev/midu.link",
+            "url": "https://api.github.com/repos/midudev/midu.link"
+        },
+        "payload": {
+            "repository_id": 354123361,
+            "push_id": 36712500945,
+            "ref": "refs/heads/main",
+            "head": "ab6ae4a4f319488d4404acdf06b6db147ceaddd7",
+            "before": "9a645053f838f1b4eb39b6546063aaf27b3e247d"
+        },
+        "public": true,
+        "created_at": "2026-07-06T13:35:14Z"
+    },
+    {
+        "id": "14415365018",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 761334150,
+            "name": "midudev/la-velada-web-oficial",
+            "url": "https://api.github.com/repos/midudev/la-velada-web-oficial"
+        },
+        "payload": {
+            "repository_id": 761334150,
+            "push_id": 36704651514,
+            "ref": "refs/heads/main",
+            "head": "d001ca576f62e0832cef597b1ab47fc15408e961",
+            "before": "b18afe24389954276c3affa740da6212ed6f97b9"
+        },
+        "public": true,
+        "created_at": "2026-07-06T11:04:14Z"
+    },
+    {
+        "id": "14415359040",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 966081065,
+            "name": "htorresUVa/la-velada-web-oficial",
+            "url": "https://api.github.com/repos/htorresUVa/la-velada-web-oficial"
+        },
+        "payload": {
+            "repository_id": 966081065,
+            "push_id": 36704645579,
+            "ref": "refs/heads/feat/artist-page-animation",
+            "head": "d92ea6b49ea3bd2dc51b170f4030102f168edd07",
+            "before": "399a1a7721e14402f18587a65447e21d653ba583"
+        },
+        "public": true,
+        "created_at": "2026-07-06T11:04:06Z"
+    },
+    {
+        "id": "14415350060",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 761334150,
+            "name": "midudev/la-velada-web-oficial",
+            "url": "https://api.github.com/repos/midudev/la-velada-web-oficial"
+        },
+        "payload": {
+            "repository_id": 761334150,
+            "push_id": 36704636546,
+            "ref": "refs/heads/main",
+            "head": "b18afe24389954276c3affa740da6212ed6f97b9",
+            "before": "27174da2cad7176450cac5441b96d1858d0ce9ec"
+        },
+        "public": true,
+        "created_at": "2026-07-06T11:03:55Z"
+    },
+    {
+        "id": "14412831085",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 354123361,
+            "name": "midudev/midu.link",
+            "url": "https://api.github.com/repos/midudev/midu.link"
+        },
+        "payload": {
+            "repository_id": 354123361,
+            "push_id": 36702117124,
+            "ref": "refs/heads/main",
+            "head": "9a645053f838f1b4eb39b6546063aaf27b3e247d",
+            "before": "cc2e3f7103dbe182e56a517f8d6a248d32613c90"
+        },
+        "public": true,
+        "created_at": "2026-07-06T10:12:07Z"
+    },
+    {
+        "id": "11395538819",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1259676981,
+            "name": "PlummersSoftwareLLC/TinyRetroPad",
+            "url": "https://api.github.com/repos/PlummersSoftwareLLC/TinyRetroPad"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2026-07-06T08:23:29Z",
+        "org": {
+            "id": 83871427,
+            "login": "PlummersSoftwareLLC",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/PlummersSoftwareLLC",
+            "avatar_url": "https://avatars.githubusercontent.com/u/83871427?"
+        }
+    },
+    {
+        "id": "14387527916",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1290205671,
+            "name": "midudev/mundial-de-clicks",
+            "url": "https://api.github.com/repos/midudev/mundial-de-clicks"
+        },
+        "payload": {
+            "repository_id": 1290205671,
+            "push_id": 36676796052,
+            "ref": "refs/heads/main",
+            "head": "fcc7cf24a52602618df36bb1edcdab94d1af67f9",
+            "before": "6bfe99b79f3577616cd8678fbb0235217b1f4169"
+        },
+        "public": true,
+        "created_at": "2026-07-05T22:17:37Z"
+    },
+    {
+        "id": "14386871710",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1290205671,
+            "name": "midudev/mundial-de-clicks",
+            "url": "https://api.github.com/repos/midudev/mundial-de-clicks"
+        },
+        "payload": {
+            "repository_id": 1290205671,
+            "push_id": 36676138891,
+            "ref": "refs/heads/main",
+            "head": "6bfe99b79f3577616cd8678fbb0235217b1f4169",
+            "before": "645f7e3fde20b7630e421dd85f53893971b06077"
+        },
+        "public": true,
+        "created_at": "2026-07-05T21:53:31Z"
+    },
+    {
+        "id": "14386782673",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1290205671,
+            "name": "midudev/mundial-de-clicks",
+            "url": "https://api.github.com/repos/midudev/mundial-de-clicks"
+        },
+        "payload": {
+            "repository_id": 1290205671,
+            "push_id": 36676049747,
+            "ref": "refs/heads/main",
+            "head": "645f7e3fde20b7630e421dd85f53893971b06077",
+            "before": "610907566ef3cc9c0e18eac2aedcc57698129290"
+        },
+        "public": true,
+        "created_at": "2026-07-05T21:49:57Z"
+    },
+    {
+        "id": "14386629342",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1290205671,
+            "name": "midudev/mundial-de-clicks",
+            "url": "https://api.github.com/repos/midudev/mundial-de-clicks"
+        },
+        "payload": {
+            "repository_id": 1290205671,
+            "push_id": 36675896035,
+            "ref": "refs/heads/main",
+            "head": "610907566ef3cc9c0e18eac2aedcc57698129290",
+            "before": "0bf00804eb95fa9b53e6847ed6ca1e6b3bc01329"
+        },
+        "public": true,
+        "created_at": "2026-07-05T21:43:56Z"
+    },
+    {
+        "id": "14386309130",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1290205671,
+            "name": "midudev/mundial-de-clicks",
+            "url": "https://api.github.com/repos/midudev/mundial-de-clicks"
+        },
+        "payload": {
+            "repository_id": 1290205671,
+            "push_id": 36675575415,
+            "ref": "refs/heads/main",
+            "head": "0bf00804eb95fa9b53e6847ed6ca1e6b3bc01329",
+            "before": "e1b6a32d24062b030b83450230f78a2f8cb4795b"
+        },
+        "public": true,
+        "created_at": "2026-07-05T21:31:45Z"
+    },
+    {
+        "id": "14386030750",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1290205671,
+            "name": "midudev/mundial-de-clicks",
+            "url": "https://api.github.com/repos/midudev/mundial-de-clicks"
+        },
+        "payload": {
+            "repository_id": 1290205671,
+            "push_id": 36675296789,
+            "ref": "refs/heads/main",
+            "head": "e1b6a32d24062b030b83450230f78a2f8cb4795b",
+            "before": "c3e2de15e16233cccab39a786b91bed960ff87ed"
+        },
+        "public": true,
+        "created_at": "2026-07-05T21:21:07Z"
+    },
+    {
+        "id": "14385963483",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1290205671,
+            "name": "midudev/mundial-de-clicks",
+            "url": "https://api.github.com/repos/midudev/mundial-de-clicks"
+        },
+        "payload": {
+            "repository_id": 1290205671,
+            "push_id": 36675229429,
+            "ref": "refs/heads/main",
+            "head": "c3e2de15e16233cccab39a786b91bed960ff87ed",
+            "before": "01809e174cb4c2dc389ee02615ac272231015d11"
+        },
+        "public": true,
+        "created_at": "2026-07-05T21:18:36Z"
+    },
+    {
+        "id": "14381961015",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1290205671,
+            "name": "midudev/mundial-de-clicks",
+            "url": "https://api.github.com/repos/midudev/mundial-de-clicks"
+        },
+        "payload": {
+            "repository_id": 1290205671,
+            "push_id": 36671222784,
+            "ref": "refs/heads/main",
+            "head": "01809e174cb4c2dc389ee02615ac272231015d11",
+            "before": "51e02e200456369c4fa4a4344392668b4267c74d"
+        },
+        "public": true,
+        "created_at": "2026-07-05T18:59:00Z"
+    },
+    {
+        "id": "14381700029",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1290205671,
+            "name": "midudev/mundial-de-clicks",
+            "url": "https://api.github.com/repos/midudev/mundial-de-clicks"
+        },
+        "payload": {
+            "repository_id": 1290205671,
+            "push_id": 36670961494,
+            "ref": "refs/heads/main",
+            "head": "51e02e200456369c4fa4a4344392668b4267c74d",
+            "before": "52d9942d099b4cc4e3ddb0f4cefe38c58544c3f9"
+        },
+        "public": true,
+        "created_at": "2026-07-05T18:50:08Z"
+    },
+    {
+        "id": "14380613779",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1290205671,
+            "name": "midudev/mundial-de-clicks",
+            "url": "https://api.github.com/repos/midudev/mundial-de-clicks"
+        },
+        "payload": {
+            "repository_id": 1290205671,
+            "push_id": 36669873776,
+            "ref": "refs/heads/main",
+            "head": "52d9942d099b4cc4e3ddb0f4cefe38c58544c3f9",
+            "before": "df05c55eee18860898366ee2f2f20714858cb73d"
+        },
+        "public": true,
+        "created_at": "2026-07-05T18:13:34Z"
+    },
+    {
+        "id": "14380596830",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1290205671,
+            "name": "midudev/mundial-de-clicks",
+            "url": "https://api.github.com/repos/midudev/mundial-de-clicks"
+        },
+        "payload": {
+            "repository_id": 1290205671,
+            "push_id": 36669856848,
+            "ref": "refs/heads/main",
+            "head": "df05c55eee18860898366ee2f2f20714858cb73d",
+            "before": "b95a5404e0c61462f41d55dd4574f8c303eaeaab"
+        },
+        "public": true,
+        "created_at": "2026-07-05T18:13:01Z"
+    },
+    {
+        "id": "14380476051",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1290205671,
+            "name": "midudev/mundial-de-clicks",
+            "url": "https://api.github.com/repos/midudev/mundial-de-clicks"
+        },
+        "payload": {
+            "repository_id": 1290205671,
+            "push_id": 36669736048,
+            "ref": "refs/heads/main",
+            "head": "b95a5404e0c61462f41d55dd4574f8c303eaeaab",
+            "before": "bcfe001a6abd1b8ce37e3780a0298356d648b304"
+        },
+        "public": true,
+        "created_at": "2026-07-05T18:09:31Z"
+    },
+    {
+        "id": "14379617597",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1290205671,
+            "name": "midudev/mundial-de-clicks",
+            "url": "https://api.github.com/repos/midudev/mundial-de-clicks"
+        },
+        "payload": {
+            "ref": "main",
+            "ref_type": "branch",
+            "full_ref": "refs/heads/main",
+            "master_branch": "main",
+            "description": null,
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2026-07-05T17:41:17Z"
+    },
+    {
+        "id": "11351678129",
+        "type": "IssuesEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 761334150,
+            "name": "midudev/la-velada-web-oficial",
+            "url": "https://api.github.com/repos/midudev/la-velada-web-oficial"
+        },
+        "payload": {
+            "action": "closed",
+            "issue": {
+                "url": "https://api.github.com/repos/midudev/la-velada-web-oficial/issues/1645",
+                "repository_url": "https://api.github.com/repos/midudev/la-velada-web-oficial",
+                "labels_url": "https://api.github.com/repos/midudev/la-velada-web-oficial/issues/1645/labels{/name}",
+                "comments_url": "https://api.github.com/repos/midudev/la-velada-web-oficial/issues/1645/comments",
+                "events_url": "https://api.github.com/repos/midudev/la-velada-web-oficial/issues/1645/events",
+                "html_url": "https://github.com/midudev/la-velada-web-oficial/issues/1645",
+                "id": 4796791861,
+                "node_id": "I_kwDOLWEJhs8AAAABHek8NQ",
+                "number": 1645,
+                "title": "[BUG] Maps not loaded properly",
+                "user": {
+                    "login": "asahelk",
+                    "id": 12284349,
+                    "node_id": "MDQ6VXNlcjEyMjg0MzQ5",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/12284349?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/asahelk",
+                    "html_url": "https://github.com/asahelk",
+                    "followers_url": "https://api.github.com/users/asahelk/followers",
+                    "following_url": "https://api.github.com/users/asahelk/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/asahelk/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/asahelk/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/asahelk/subscriptions",
+                    "organizations_url": "https://api.github.com/users/asahelk/orgs",
+                    "repos_url": "https://api.github.com/users/asahelk/repos",
+                    "events_url": "https://api.github.com/users/asahelk/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/asahelk/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "closed",
+                "locked": false,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2026-07-02T17:29:17Z",
+                "updated_at": "2026-07-04T11:17:32Z",
+                "closed_at": "2026-07-04T11:17:32Z",
+                "assignee": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "### Issue details:\nWhen user:\n1. Goes to https://www.infolavelada.com/\n2. Scrolls to Maps section.\n3. Goes (tap or click) to another path e.g. Combates (menu navbar)\n4. Press go back or returns to main page\n\nThen:\n- The map does not load properly\n\n\nhttps://github.com/user-attachments/assets/0eeae1cf-c21c-47ba-bddc-a184637ea043\n\n<br>\n\n## Pull Request that solves this issue: https://github.com/midudev/la-velada-web-oficial/pull/1644 \n\n<br>\n",
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/la-velada-web-oficial/issues/1645/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/midudev/la-velada-web-oficial/issues/1645/timeline",
+                "performed_via_github_app": null,
+                "state_reason": "completed",
+                "pinned_comment": null
+            }
+        },
+        "public": true,
+        "created_at": "2026-07-04T11:17:33Z"
+    },
+    {
+        "id": "11351677047",
+        "type": "IssueCommentEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 761334150,
+            "name": "midudev/la-velada-web-oficial",
+            "url": "https://api.github.com/repos/midudev/la-velada-web-oficial"
+        },
+        "payload": {
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/midudev/la-velada-web-oficial/issues/1645",
+                "repository_url": "https://api.github.com/repos/midudev/la-velada-web-oficial",
+                "labels_url": "https://api.github.com/repos/midudev/la-velada-web-oficial/issues/1645/labels{/name}",
+                "comments_url": "https://api.github.com/repos/midudev/la-velada-web-oficial/issues/1645/comments",
+                "events_url": "https://api.github.com/repos/midudev/la-velada-web-oficial/issues/1645/events",
+                "html_url": "https://github.com/midudev/la-velada-web-oficial/issues/1645",
+                "id": 4796791861,
+                "node_id": "I_kwDOLWEJhs8AAAABHek8NQ",
+                "number": 1645,
+                "title": "[BUG] Maps not loaded properly",
+                "user": {
+                    "login": "asahelk",
+                    "id": 12284349,
+                    "node_id": "MDQ6VXNlcjEyMjg0MzQ5",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/12284349?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/asahelk",
+                    "html_url": "https://github.com/asahelk",
+                    "followers_url": "https://api.github.com/users/asahelk/followers",
+                    "following_url": "https://api.github.com/users/asahelk/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/asahelk/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/asahelk/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/asahelk/subscriptions",
+                    "organizations_url": "https://api.github.com/users/asahelk/orgs",
+                    "repos_url": "https://api.github.com/users/asahelk/repos",
+                    "events_url": "https://api.github.com/users/asahelk/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/asahelk/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "closed",
+                "locked": false,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2026-07-02T17:29:17Z",
+                "updated_at": "2026-07-04T11:17:32Z",
+                "closed_at": "2026-07-04T11:17:32Z",
+                "assignee": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "### Issue details:\nWhen user:\n1. Goes to https://www.infolavelada.com/\n2. Scrolls to Maps section.\n3. Goes (tap or click) to another path e.g. Combates (menu navbar)\n4. Press go back or returns to main page\n\nThen:\n- The map does not load properly\n\n\nhttps://github.com/user-attachments/assets/0eeae1cf-c21c-47ba-bddc-a184637ea043\n\n<br>\n\n## Pull Request that solves this issue: https://github.com/midudev/la-velada-web-oficial/pull/1644 \n\n<br>\n",
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/la-velada-web-oficial/issues/1645/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/midudev/la-velada-web-oficial/issues/1645/timeline",
+                "performed_via_github_app": null,
+                "state_reason": "completed",
+                "pinned_comment": null
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/midudev/la-velada-web-oficial/issues/comments/4881776138",
+                "html_url": "https://github.com/midudev/la-velada-web-oficial/issues/1645#issuecomment-4881776138",
+                "issue_url": "https://api.github.com/repos/midudev/la-velada-web-oficial/issues/1645",
+                "id": 4881776138,
+                "node_id": "IC_kwDOLWEJhs8AAAABIvn-Cg",
+                "user": {
+                    "login": "midudev",
+                    "id": 1561955,
+                    "node_id": "MDQ6VXNlcjE1NjE5NTU=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/1561955?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/midudev",
+                    "html_url": "https://github.com/midudev",
+                    "followers_url": "https://api.github.com/users/midudev/followers",
+                    "following_url": "https://api.github.com/users/midudev/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/midudev/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/midudev/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/midudev/subscriptions",
+                    "organizations_url": "https://api.github.com/users/midudev/orgs",
+                    "repos_url": "https://api.github.com/users/midudev/repos",
+                    "events_url": "https://api.github.com/users/midudev/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/midudev/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "created_at": "2026-07-04T11:17:27Z",
+                "updated_at": "2026-07-04T11:17:27Z",
+                "body": "Solucionado en `main` con el commit `27174da2`.\n\nEl mapa ya no depende de una bandera JS global para decidir si el CSS de Leaflet est\u00e1 cargado. Ahora comprueba el `<link>` real en el DOM antes de inyectarlo, as\u00ed al volver a la home despu\u00e9s de navegar a otra ruta se vuelve a asegurar la carga de estilos sin duplicarlos.\n\nVerificado con:\n- `pnpm exec prettier --check src/sections/Map.astro`\n- `git diff --check`\n- `pnpm exec astro build`\n- Prueba local del flujo: home `#sede` -> `/combates` -> back, con mapa inicializado y sin errores de consola.",
+                "pin": null,
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/la-velada-web-oficial/issues/comments/4881776138/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "performed_via_github_app": {
+                    "id": 1144995,
+                    "client_id": "Iv23liVemv8A9if9v0F2",
+                    "slug": "chatgpt-codex-connector",
+                    "node_id": "A_kwHOAOQ6Gs4AEXij",
+                    "owner": {
+                        "login": "openai",
+                        "id": 14957082,
+                        "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0OTU3MDgy",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/openai",
+                        "html_url": "https://github.com/openai",
+                        "followers_url": "https://api.github.com/users/openai/followers",
+                        "following_url": "https://api.github.com/users/openai/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/openai/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/openai/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/openai/subscriptions",
+                        "organizations_url": "https://api.github.com/users/openai/orgs",
+                        "repos_url": "https://api.github.com/users/openai/repos",
+                        "events_url": "https://api.github.com/users/openai/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/openai/received_events",
+                        "type": "Organization",
+                        "user_view_type": "public",
+                        "site_admin": false
+                    },
+                    "name": "ChatGPT Codex Connector",
+                    "description": "Bring ChatGPT and Codex to your GitHub repositories.",
+                    "external_url": "https://www.chatgpt.com",
+                    "html_url": "https://github.com/apps/chatgpt-codex-connector",
+                    "created_at": "2025-02-14T01:37:05Z",
+                    "updated_at": "2026-04-20T16:37:15Z",
+                    "permissions": {
+                        "actions": "write",
+                        "checks": "read",
+                        "contents": "write",
+                        "emails": "read",
+                        "issues": "write",
+                        "metadata": "read",
+                        "pull_requests": "write",
+                        "statuses": "read",
+                        "workflows": "write"
+                    },
+                    "events": [
+                        "check_run",
+                        "check_suite",
+                        "commit_comment",
+                        "issues",
+                        "issue_comment",
+                        "pull_request",
+                        "pull_request_review",
+                        "pull_request_review_comment",
+                        "pull_request_review_thread",
+                        "repository",
+                        "status",
+                        "sub_issues"
+                    ]
+                }
+            }
+        },
+        "public": true,
+        "created_at": "2026-07-04T11:17:27Z"
+    },
+    {
+        "id": "14331912688",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 761334150,
+            "name": "midudev/la-velada-web-oficial",
+            "url": "https://api.github.com/repos/midudev/la-velada-web-oficial"
+        },
+        "payload": {
+            "repository_id": 761334150,
+            "push_id": 36621075394,
+            "ref": "refs/heads/main",
+            "head": "27174da2cad7176450cac5441b96d1858d0ce9ec",
+            "before": "bbe2302b0dbdd5d82dc4758baf6a7d3deffdf20d"
+        },
+        "public": true,
+        "created_at": "2026-07-04T11:17:05Z"
+    },
+    {
+        "id": "14331773931",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 761334150,
+            "name": "midudev/la-velada-web-oficial",
+            "url": "https://api.github.com/repos/midudev/la-velada-web-oficial"
+        },
+        "payload": {
+            "repository_id": 761334150,
+            "push_id": 36620935815,
+            "ref": "refs/heads/main",
+            "head": "bbe2302b0dbdd5d82dc4758baf6a7d3deffdf20d",
+            "before": "ee651d84c18b5623cce95849f91f58dea1243446"
+        },
+        "public": true,
+        "created_at": "2026-07-04T11:11:42Z"
+    },
+    {
+        "id": "14331738717",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 966081065,
+            "name": "htorresUVa/la-velada-web-oficial",
+            "url": "https://api.github.com/repos/htorresUVa/la-velada-web-oficial"
+        },
+        "payload": {
+            "repository_id": 966081065,
+            "push_id": 36620900501,
+            "ref": "refs/heads/feat/artists-2026",
+            "head": "6f71469a1fb28a40a441f6fc002419f6320f3917",
+            "before": "23b18282901c55aacfeb7706ac097a2e65fb00f5"
+        },
+        "public": true,
+        "created_at": "2026-07-04T11:10:18Z"
+    },
+    {
+        "id": "14331733997",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 761334150,
+            "name": "midudev/la-velada-web-oficial",
+            "url": "https://api.github.com/repos/midudev/la-velada-web-oficial"
+        },
+        "payload": {
+            "repository_id": 761334150,
+            "push_id": 36620895633,
+            "ref": "refs/heads/main",
+            "head": "ee651d84c18b5623cce95849f91f58dea1243446",
+            "before": "3cd5ce8d15d7fcfa643e0edc1207c5d4e65e66c0"
+        },
+        "public": true,
+        "created_at": "2026-07-04T11:10:07Z"
+    },
+    {
+        "id": "11312907408",
+        "type": "IssuesEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1196294562,
+            "name": "midudev/aprendesql.dev-issues",
+            "url": "https://api.github.com/repos/midudev/aprendesql.dev-issues"
+        },
+        "payload": {
+            "action": "closed",
+            "issue": {
+                "url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/issues/11",
+                "repository_url": "https://api.github.com/repos/midudev/aprendesql.dev-issues",
+                "labels_url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/issues/11/labels{/name}",
+                "comments_url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/issues/11/comments",
+                "events_url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/issues/11/events",
+                "html_url": "https://github.com/midudev/aprendesql.dev-issues/issues/11",
+                "id": 4251355535,
+                "node_id": "I_kwDOR04Bos79ZomP",
+                "number": 11,
+                "title": "falta agregar el alias de la cuenta",
+                "user": {
+                    "login": "DarkoLike",
+                    "id": 156544027,
+                    "node_id": "U_kgDOCVSsGw",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/156544027?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/DarkoLike",
+                    "html_url": "https://github.com/DarkoLike",
+                    "followers_url": "https://api.github.com/users/DarkoLike/followers",
+                    "following_url": "https://api.github.com/users/DarkoLike/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/DarkoLike/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/DarkoLike/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/DarkoLike/subscriptions",
+                    "organizations_url": "https://api.github.com/users/DarkoLike/orgs",
+                    "repos_url": "https://api.github.com/users/DarkoLike/repos",
+                    "events_url": "https://api.github.com/users/DarkoLike/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/DarkoLike/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [
+                    {
+                        "id": 10560858724,
+                        "node_id": "LA_kwDOR04Bos8AAAACdXnqZA",
+                        "url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/labels/bug",
+                        "name": "bug",
+                        "color": "d73a4a",
+                        "default": true,
+                        "description": "Something isn't working"
+                    }
+                ],
+                "state": "closed",
+                "locked": false,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2026-04-13T04:52:12Z",
+                "updated_at": "2026-07-03T07:36:29Z",
+                "closed_at": "2026-07-03T07:36:29Z",
+                "assignee": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "### Lecci\u00f3n / P\u00e1gina\n\nClaves for\u00e1neas: FOREIGN KEY\n\n### Ejercicio (si aplica)\n\nejercicio 3\n\n### Descripci\u00f3n del problema\n\nfalto especificar en la descripcion del ejercicio el alias de la cuenta as total\n\n### Consulta SQL utilizada\n\n```sql\nSELECT d.name, COUNT(*) as total FROM videogames v INNER JOIN developers d ON v.developer_id = d.id GROUP BY d.name;\n```\n\n### Navegador\n\n_No response_",
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/issues/11/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/issues/11/timeline",
+                "performed_via_github_app": null,
+                "state_reason": "completed",
+                "pinned_comment": null
+            }
+        },
+        "public": true,
+        "created_at": "2026-07-03T07:36:30Z"
+    },
+    {
+        "id": "11312900931",
+        "type": "IssuesEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1196294562,
+            "name": "midudev/aprendesql.dev-issues",
+            "url": "https://api.github.com/repos/midudev/aprendesql.dev-issues"
+        },
+        "payload": {
+            "action": "closed",
+            "issue": {
+                "url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/issues/3",
+                "repository_url": "https://api.github.com/repos/midudev/aprendesql.dev-issues",
+                "labels_url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/issues/3/labels{/name}",
+                "comments_url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/issues/3/comments",
+                "events_url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/issues/3/events",
+                "html_url": "https://github.com/midudev/aprendesql.dev-issues/issues/3",
+                "id": 4179544296,
+                "node_id": "I_kwDOR04Bos75Hsjo",
+                "number": 3,
+                "title": "Creo que hay un error",
+                "user": {
+                    "login": "Cesar-Solorza",
+                    "id": 196553697,
+                    "node_id": "U_kgDOC7cr4Q",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/196553697?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Cesar-Solorza",
+                    "html_url": "https://github.com/Cesar-Solorza",
+                    "followers_url": "https://api.github.com/users/Cesar-Solorza/followers",
+                    "following_url": "https://api.github.com/users/Cesar-Solorza/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Cesar-Solorza/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Cesar-Solorza/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Cesar-Solorza/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Cesar-Solorza/orgs",
+                    "repos_url": "https://api.github.com/users/Cesar-Solorza/repos",
+                    "events_url": "https://api.github.com/users/Cesar-Solorza/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Cesar-Solorza/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [
+                    {
+                        "id": 10560858724,
+                        "node_id": "LA_kwDOR04Bos8AAAACdXnqZA",
+                        "url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/labels/bug",
+                        "name": "bug",
+                        "color": "d73a4a",
+                        "default": true,
+                        "description": "Something isn't working"
+                    }
+                ],
+                "state": "closed",
+                "locked": false,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2026-03-31T14:07:22Z",
+                "updated_at": "2026-07-03T07:36:18Z",
+                "closed_at": "2026-07-03T07:36:18Z",
+                "assignee": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "### Lecci\u00f3n / P\u00e1gina\n\nUniendo tablas: Introducci\u00f3n a JOINs\n\n### Ejercicio (si aplica)\n\nEjercicio 5\n\n### Descripci\u00f3n del problema\n\nSELECT v1.title AS 'juego 1', v2.title AS 'juego 2',\n       v1.developer_id\n  FROM videogames v1 INNER JOIN videogames v2\n         ON v1.developer_id = v2.developer_id\n         AND v1.id < v2.id; -->  aca deber\u00eda ser AND v1.developer_id < v2.developer_id , porque en la tabla videogames no hay un columna llamada id.\n\nSaludos.\n\n### Consulta SQL utilizada\n\n```sql\nSELECT v1.title AS 'juego 1', v2.title AS 'juego 2',\n       v1.developer_id\n  FROM videogames v1 INNER JOIN videogames v2\n         ON v1.developer_id = v2.developer_id\n         AND v1.id < v2.id;\n```\n\n### Navegador\n\n_No response_",
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/issues/3/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/issues/3/timeline",
+                "performed_via_github_app": null,
+                "state_reason": "completed",
+                "pinned_comment": null
+            }
+        },
+        "public": true,
+        "created_at": "2026-07-03T07:36:20Z"
+    },
+    {
+        "id": "11312864942",
+        "type": "IssuesEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1196294562,
+            "name": "midudev/aprendesql.dev-issues",
+            "url": "https://api.github.com/repos/midudev/aprendesql.dev-issues"
+        },
+        "payload": {
+            "action": "closed",
+            "issue": {
+                "url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/issues/18",
+                "repository_url": "https://api.github.com/repos/midudev/aprendesql.dev-issues",
+                "labels_url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/issues/18/labels{/name}",
+                "comments_url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/issues/18/comments",
+                "events_url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/issues/18/events",
+                "html_url": "https://github.com/midudev/aprendesql.dev-issues/issues/18",
+                "id": 4373252711,
+                "node_id": "I_kwDOR04Bos8AAAABBKqKZw",
+                "number": 18,
+                "title": "error en ejercicio 2 de lecci\u00f3n 8",
+                "user": {
+                    "login": "Malld0",
+                    "id": 180099217,
+                    "node_id": "U_kgDOCrwYkQ",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/180099217?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Malld0",
+                    "html_url": "https://github.com/Malld0",
+                    "followers_url": "https://api.github.com/users/Malld0/followers",
+                    "following_url": "https://api.github.com/users/Malld0/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Malld0/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Malld0/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Malld0/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Malld0/orgs",
+                    "repos_url": "https://api.github.com/users/Malld0/repos",
+                    "events_url": "https://api.github.com/users/Malld0/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Malld0/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [
+                    {
+                        "id": 10560858724,
+                        "node_id": "LA_kwDOR04Bos8AAAACdXnqZA",
+                        "url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/labels/bug",
+                        "name": "bug",
+                        "color": "d73a4a",
+                        "default": true,
+                        "description": "Something isn't working"
+                    }
+                ],
+                "state": "closed",
+                "locked": false,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2026-05-03T23:17:05Z",
+                "updated_at": "2026-07-03T07:35:23Z",
+                "closed_at": "2026-07-03T07:35:23Z",
+                "assignee": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "### Lecci\u00f3n / P\u00e1gina\n\nExpresiones en SQL: C\u00e1lculos y manipulaciones\n\n### Ejercicio (si aplica)\n\nejercicio 2\n\n### Descripci\u00f3n del problema\n\ncomet\u00ed un error en el resultado del ejercicio 2 donde mande el c\u00f3digo \n`SELECT` title || ' (' || year || ')'  FROM `videogames;`\nme lo dio como valido a pesar de que la indicaci\u00f3n ped\u00eda que el as fuera info como lo demuestro a continuaci\u00f3n .\n`SELECT` title || ' (' || year || ')' AS info FROM videogames; `\n\n### Consulta SQL utilizada\n\n```sql\n\n```\n\n### Navegador\n\ncrome",
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/issues/18/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/issues/18/timeline",
+                "performed_via_github_app": null,
+                "state_reason": "completed",
+                "pinned_comment": null
+            }
+        },
+        "public": true,
+        "created_at": "2026-07-03T07:35:24Z"
+    },
+    {
+        "id": "11312852610",
+        "type": "IssuesEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1196294562,
+            "name": "midudev/aprendesql.dev-issues",
+            "url": "https://api.github.com/repos/midudev/aprendesql.dev-issues"
+        },
+        "payload": {
+            "action": "closed",
+            "issue": {
+                "url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/issues/20",
+                "repository_url": "https://api.github.com/repos/midudev/aprendesql.dev-issues",
+                "labels_url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/issues/20/labels{/name}",
+                "comments_url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/issues/20/comments",
+                "events_url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/issues/20/events",
+                "html_url": "https://github.com/midudev/aprendesql.dev-issues/issues/20",
+                "id": 4422053387,
+                "node_id": "I_kwDOR04Bos8AAAABB5MuCw",
+                "number": 20,
+                "title": "Sintaxis MySQL en ejercicio SQLite",
+                "user": {
+                    "login": "Nicolas-Lastra",
+                    "id": 179547693,
+                    "node_id": "U_kgDOCrOuLQ",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/179547693?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Nicolas-Lastra",
+                    "html_url": "https://github.com/Nicolas-Lastra",
+                    "followers_url": "https://api.github.com/users/Nicolas-Lastra/followers",
+                    "following_url": "https://api.github.com/users/Nicolas-Lastra/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Nicolas-Lastra/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Nicolas-Lastra/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Nicolas-Lastra/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Nicolas-Lastra/orgs",
+                    "repos_url": "https://api.github.com/users/Nicolas-Lastra/repos",
+                    "events_url": "https://api.github.com/users/Nicolas-Lastra/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Nicolas-Lastra/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [
+                    {
+                        "id": 10560858724,
+                        "node_id": "LA_kwDOR04Bos8AAAACdXnqZA",
+                        "url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/labels/bug",
+                        "name": "bug",
+                        "color": "d73a4a",
+                        "default": true,
+                        "description": "Something isn't working"
+                    }
+                ],
+                "state": "closed",
+                "locked": false,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2026-05-11T15:25:00Z",
+                "updated_at": "2026-07-03T07:35:03Z",
+                "closed_at": "2026-07-03T07:35:03Z",
+                "assignee": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "### Lecci\u00f3n / P\u00e1gina\n\nExpresiones en SQL: C\u00e1lculos y manipulaciones\n\n### Ejercicio (si aplica)\n\nEjercicio 2\n\n### Descripci\u00f3n del problema\n\nAl ejecutar la consulta SQLite (como se ense\u00f1a en la p\u00e1gina) arroja un error de que no se puede ejecutar la consulta.\n\n`SELECT title || ' (' || year || ')' AS info FROM videogames;`\n\n\nSin embargo, al ingresar su equivalente en sintaxis MySQL, se ejecuta correctamente y marca el ejercicio como completado.\n\n`SELECT CONCAT(title, ' (', year, ')') AS info FROM videogames`\n\nLo interesante es que una vez validado el ejercicio, cambia la respuesta dentro del formulario a la sintaxis SQLite.\n\n### Consulta SQL utilizada\n\n```sql\nSELECT title || ' (' || year || ')' AS info FROM videogames;\n```\n\n### Navegador\n\nBrave 1.90.121 (Build oficial) (64 bits)",
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/issues/20/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/midudev/aprendesql.dev-issues/issues/20/timeline",
+                "performed_via_github_app": null,
+                "state_reason": "completed",
+                "pinned_comment": null
+            }
+        },
+        "public": true,
+        "created_at": "2026-07-03T07:35:05Z"
+    }
+]

@@ -1,1 +1,1 @@
-primer algo 🐒
+Documentación de **API REST** de **GitHub**: [Puntos de conexión de la API de REST para eventos](https://docs.github.com/es/rest/activity/events?apiVersion=2026-03-10)
