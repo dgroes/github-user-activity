@@ -2,6 +2,7 @@ import urllib.request
 import json
 from collections import Counter
 from cli import main
+from cli import ROJO_B, VERDE, AMARILLO_I, RESET
 
 
 username = main()
@@ -27,9 +28,9 @@ with urllib.request.urlopen(url, data=None) as response:
     #print(combinaciones)
 
     # Impresión limpia
-    print(f"\n📊 Actividad de {username}:")
+    print(f"\n 👩‍💻 Actividad de {ROJO_B}{username}{RESET}:")
     for (tipo, repo), cantidad in conteo_final.items():
-        print(f"- {cantidad} {tipo} hacia el repositorio {repo}")
+        print(f"- {cantidad} {VERDE}{tipo}{RESET} hacia el repositorio {AMARILLO_I}{repo}{RESET}")
 
 
     # Guardar la última consulta "total" dentro de un fichero
