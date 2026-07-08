@@ -1,485 +1,2113 @@
 [
     {
-        "id": "14510832682",
+        "id": "14558028351",
         "type": "PushEvent",
         "actor": {
-            "id": 91085485,
-            "login": "dgroes",
-            "display_login": "dgroes",
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/dgroes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
         },
         "repo": {
-            "id": 1288493371,
-            "name": "dgroes/github-user-activity",
-            "url": "https://api.github.com/repos/dgroes/github-user-activity"
+            "id": 354123361,
+            "name": "midudev/midu.link",
+            "url": "https://api.github.com/repos/midudev/midu.link"
         },
         "payload": {
-            "repository_id": 1288493371,
-            "push_id": 36800118782,
+            "repository_id": 354123361,
+            "push_id": 36847333678,
             "ref": "refs/heads/main",
-            "head": "1b348e6a4cd32b1ad84706d9ead08bb390f69d8e",
-            "before": "22f4bb2cb23aa8e2f72f09e47db4ac1d53800f60"
+            "head": "4c19a58a68e8c20f3187542fdef735e8a7040ea4",
+            "before": "a4ad9c6497465df9024e09cf7f331a8009182702"
         },
         "public": true,
-        "created_at": "2026-07-07T20:19:39Z"
+        "created_at": "2026-07-08T14:07:31Z"
     },
     {
-        "id": "14302091726",
-        "type": "CreateEvent",
-        "actor": {
-            "id": 91085485,
-            "login": "dgroes",
-            "display_login": "dgroes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/dgroes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
-        },
-        "repo": {
-            "id": 1288493371,
-            "name": "dgroes/github-user-activity",
-            "url": "https://api.github.com/repos/dgroes/github-user-activity"
-        },
-        "payload": {
-            "ref": "main",
-            "ref_type": "branch",
-            "full_ref": "refs/heads/main",
-            "master_branch": "master",
-            "description": null,
-            "pusher_type": "user"
-        },
-        "public": true,
-        "created_at": "2026-07-03T16:51:56Z"
-    },
-    {
-        "id": "14302066878",
-        "type": "CreateEvent",
-        "actor": {
-            "id": 91085485,
-            "login": "dgroes",
-            "display_login": "dgroes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/dgroes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
-        },
-        "repo": {
-            "id": 1288493371,
-            "name": "dgroes/github-user-activity",
-            "url": "https://api.github.com/repos/dgroes/github-user-activity"
-        },
-        "payload": {
-            "ref": "master",
-            "ref_type": "branch",
-            "full_ref": "refs/heads/master",
-            "master_branch": "master",
-            "description": null,
-            "pusher_type": "user"
-        },
-        "public": true,
-        "created_at": "2026-07-03T16:51:18Z"
-    },
-    {
-        "id": "11233955457",
+        "id": "11506945478",
         "type": "PullRequestEvent",
         "actor": {
-            "id": 91085485,
-            "login": "dgroes",
-            "display_login": "dgroes",
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/dgroes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
         },
         "repo": {
-            "id": 581049695,
-            "name": "mouredev/retos-programacion-2023",
-            "url": "https://api.github.com/repos/mouredev/retos-programacion-2023"
-        },
-        "payload": {
-            "action": "opened",
-            "number": 6833,
-            "pull_request": {
-                "url": "https://api.github.com/repos/mouredev/retos-programacion-2023/pulls/6833",
-                "id": 3972465621,
-                "number": 6833,
-                "head": {
-                    "ref": "reto-1",
-                    "sha": "bb068abb2a610ab3db6b0ee6de02a87944f7fccd",
-                    "repo": {
-                        "id": 1051390568,
-                        "url": "https://api.github.com/repos/dgroes/retos-programacion-2023",
-                        "name": "retos-programacion-2023"
-                    }
-                },
-                "base": {
-                    "ref": "main",
-                    "sha": "49f4f8493cc16027cd28f6ec7544925b7ea95739",
-                    "repo": {
-                        "id": 581049695,
-                        "url": "https://api.github.com/repos/mouredev/retos-programacion-2023",
-                        "name": "retos-programacion-2023"
-                    }
-                }
-            }
-        },
-        "public": true,
-        "created_at": "2026-07-01T16:54:44Z"
-    },
-    {
-        "id": "11233931068",
-        "type": "PullRequestEvent",
-        "actor": {
-            "id": 91085485,
-            "login": "dgroes",
-            "display_login": "dgroes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/dgroes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
-        },
-        "repo": {
-            "id": 581049695,
-            "name": "mouredev/retos-programacion-2023",
-            "url": "https://api.github.com/repos/mouredev/retos-programacion-2023"
-        },
-        "payload": {
-            "action": "opened",
-            "number": 6832,
-            "pull_request": {
-                "url": "https://api.github.com/repos/mouredev/retos-programacion-2023/pulls/6832",
-                "id": 3972461900,
-                "number": 6832,
-                "head": {
-                    "ref": "reto-3",
-                    "sha": "93af71c874c90ae14cc6e12965c3ff7c6e2147fe",
-                    "repo": {
-                        "id": 1051390568,
-                        "url": "https://api.github.com/repos/dgroes/retos-programacion-2023",
-                        "name": "retos-programacion-2023"
-                    }
-                },
-                "base": {
-                    "ref": "main",
-                    "sha": "49f4f8493cc16027cd28f6ec7544925b7ea95739",
-                    "repo": {
-                        "id": 581049695,
-                        "url": "https://api.github.com/repos/mouredev/retos-programacion-2023",
-                        "name": "retos-programacion-2023"
-                    }
-                }
-            }
-        },
-        "public": true,
-        "created_at": "2026-07-01T16:54:10Z"
-    },
-    {
-        "id": "14182436825",
-        "type": "CreateEvent",
-        "actor": {
-            "id": 91085485,
-            "login": "dgroes",
-            "display_login": "dgroes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/dgroes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
-        },
-        "repo": {
-            "id": 1051390568,
-            "name": "dgroes/retos-programacion-2023",
-            "url": "https://api.github.com/repos/dgroes/retos-programacion-2023"
-        },
-        "payload": {
-            "ref": "reto-3",
-            "ref_type": "branch",
-            "full_ref": "refs/heads/reto-3",
-            "master_branch": "main",
-            "description": "Ejercicios de c\u00f3digo semanales en 2023 de la comunidad MoureDev para practicar l\u00f3gica en cualquier lenguaje de programaci\u00f3n.",
-            "pusher_type": "user"
-        },
-        "public": true,
-        "created_at": "2026-07-01T16:50:12Z"
-    },
-    {
-        "id": "14182402382",
-        "type": "CreateEvent",
-        "actor": {
-            "id": 91085485,
-            "login": "dgroes",
-            "display_login": "dgroes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/dgroes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
-        },
-        "repo": {
-            "id": 1051390568,
-            "name": "dgroes/retos-programacion-2023",
-            "url": "https://api.github.com/repos/dgroes/retos-programacion-2023"
-        },
-        "payload": {
-            "ref": "reto-0",
-            "ref_type": "branch",
-            "full_ref": "refs/heads/reto-0",
-            "master_branch": "main",
-            "description": "Ejercicios de c\u00f3digo semanales en 2023 de la comunidad MoureDev para practicar l\u00f3gica en cualquier lenguaje de programaci\u00f3n.",
-            "pusher_type": "user"
-        },
-        "public": true,
-        "created_at": "2026-07-01T16:49:26Z"
-    },
-    {
-        "id": "14182162022",
-        "type": "CreateEvent",
-        "actor": {
-            "id": 91085485,
-            "login": "dgroes",
-            "display_login": "dgroes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/dgroes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
-        },
-        "repo": {
-            "id": 1051390568,
-            "name": "dgroes/retos-programacion-2023",
-            "url": "https://api.github.com/repos/dgroes/retos-programacion-2023"
-        },
-        "payload": {
-            "ref": "reto-2",
-            "ref_type": "branch",
-            "full_ref": "refs/heads/reto-2",
-            "master_branch": "main",
-            "description": "Ejercicios de c\u00f3digo semanales en 2023 de la comunidad MoureDev para practicar l\u00f3gica en cualquier lenguaje de programaci\u00f3n.",
-            "pusher_type": "user"
-        },
-        "public": true,
-        "created_at": "2026-07-01T16:44:00Z"
-    },
-    {
-        "id": "14181956119",
-        "type": "CreateEvent",
-        "actor": {
-            "id": 91085485,
-            "login": "dgroes",
-            "display_login": "dgroes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/dgroes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
-        },
-        "repo": {
-            "id": 1051390568,
-            "name": "dgroes/retos-programacion-2023",
-            "url": "https://api.github.com/repos/dgroes/retos-programacion-2023"
-        },
-        "payload": {
-            "ref": "reto-1",
-            "ref_type": "branch",
-            "full_ref": "refs/heads/reto-1",
-            "master_branch": "main",
-            "description": "Ejercicios de c\u00f3digo semanales en 2023 de la comunidad MoureDev para practicar l\u00f3gica en cualquier lenguaje de programaci\u00f3n.",
-            "pusher_type": "user"
-        },
-        "public": true,
-        "created_at": "2026-07-01T16:39:20Z"
-    },
-    {
-        "id": "14181891110",
-        "type": "PushEvent",
-        "actor": {
-            "id": 91085485,
-            "login": "dgroes",
-            "display_login": "dgroes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/dgroes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
-        },
-        "repo": {
-            "id": 1051390568,
-            "name": "dgroes/retos-programacion-2023",
-            "url": "https://api.github.com/repos/dgroes/retos-programacion-2023"
-        },
-        "payload": {
-            "repository_id": 1051390568,
-            "push_id": 36470787884,
-            "ref": "refs/heads/main",
-            "head": "49f4f8493cc16027cd28f6ec7544925b7ea95739",
-            "before": "e1e41cadd5c61446310e5c131e4f79053c085f42"
-        },
-        "public": true,
-        "created_at": "2026-07-01T16:37:55Z"
-    },
-    {
-        "id": "11231657254",
-        "type": "PullRequestEvent",
-        "actor": {
-            "id": 91085485,
-            "login": "dgroes",
-            "display_login": "dgroes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/dgroes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
-        },
-        "repo": {
-            "id": 581049695,
-            "name": "mouredev/retos-programacion-2023",
-            "url": "https://api.github.com/repos/mouredev/retos-programacion-2023"
+            "id": 1176666032,
+            "name": "midudev/canirun.ai",
+            "url": "https://api.github.com/repos/midudev/canirun.ai"
         },
         "payload": {
             "action": "closed",
-            "number": 6831,
+            "number": 2,
             "pull_request": {
-                "url": "https://api.github.com/repos/mouredev/retos-programacion-2023/pulls/6831",
-                "id": 3720446257,
-                "number": 6831,
+                "url": "https://api.github.com/repos/midudev/canirun.ai/pulls/2",
+                "id": 3842716866,
+                "number": 2,
                 "head": {
-                    "ref": "main",
-                    "sha": "e1e41cadd5c61446310e5c131e4f79053c085f42",
+                    "ref": "feat/add-diffusiongemma",
+                    "sha": "4d4d4028454f5c281bf904db93969bf23e1cb8b7",
                     "repo": {
-                        "id": 1051390568,
-                        "url": "https://api.github.com/repos/dgroes/retos-programacion-2023",
-                        "name": "retos-programacion-2023"
+                        "id": 1265523352,
+                        "url": "https://api.github.com/repos/0bkevin/canirun.ai",
+                        "name": "canirun.ai"
                     }
                 },
                 "base": {
                     "ref": "main",
-                    "sha": "49f4f8493cc16027cd28f6ec7544925b7ea95739",
+                    "sha": "0c7512a31ef8070a86c56894ed1e760dac1d1088",
                     "repo": {
-                        "id": 581049695,
-                        "url": "https://api.github.com/repos/mouredev/retos-programacion-2023",
-                        "name": "retos-programacion-2023"
+                        "id": 1176666032,
+                        "url": "https://api.github.com/repos/midudev/canirun.ai",
+                        "name": "canirun.ai"
                     }
                 }
             }
         },
         "public": true,
-        "created_at": "2026-07-01T15:59:00Z"
+        "created_at": "2026-06-10T21:13:56Z"
     },
     {
-        "id": "14179865311",
-        "type": "PushEvent",
+        "id": "11505164536",
+        "type": "WatchEvent",
         "actor": {
-            "id": 91085485,
-            "login": "dgroes",
-            "display_login": "dgroes",
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/dgroes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
         },
         "repo": {
-            "id": 1051390568,
-            "name": "dgroes/retos-programacion-2023",
-            "url": "https://api.github.com/repos/dgroes/retos-programacion-2023"
+            "id": 1254225062,
+            "name": "TheOrcDev/videorc",
+            "url": "https://api.github.com/repos/TheOrcDev/videorc"
         },
         "payload": {
-            "repository_id": 1051390568,
-            "push_id": 36468759064,
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2026-07-08T10:15:35Z"
+    },
+    {
+        "id": "11479532985",
+        "type": "IssueCommentEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1075271938,
+            "name": "midudev/gojs-issues",
+            "url": "https://api.github.com/repos/midudev/gojs-issues"
+        },
+        "payload": {
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/midudev/gojs-issues/issues/19",
+                "repository_url": "https://api.github.com/repos/midudev/gojs-issues",
+                "labels_url": "https://api.github.com/repos/midudev/gojs-issues/issues/19/labels{/name}",
+                "comments_url": "https://api.github.com/repos/midudev/gojs-issues/issues/19/comments",
+                "events_url": "https://api.github.com/repos/midudev/gojs-issues/issues/19/events",
+                "html_url": "https://github.com/midudev/gojs-issues/issues/19",
+                "id": 3815561212,
+                "node_id": "I_kwDOQBdZAs7jbNf8",
+                "number": 19,
+                "title": "[Feature]: Add popover for view Information vars, function, etc",
+                "user": {
+                    "login": "OctaEDLP00",
+                    "id": 42822581,
+                    "node_id": "MDQ6VXNlcjQyODIyNTgx",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/42822581?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/OctaEDLP00",
+                    "html_url": "https://github.com/OctaEDLP00",
+                    "followers_url": "https://api.github.com/users/OctaEDLP00/followers",
+                    "following_url": "https://api.github.com/users/OctaEDLP00/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/OctaEDLP00/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/OctaEDLP00/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/OctaEDLP00/subscriptions",
+                    "organizations_url": "https://api.github.com/users/OctaEDLP00/orgs",
+                    "repos_url": "https://api.github.com/users/OctaEDLP00/repos",
+                    "events_url": "https://api.github.com/users/OctaEDLP00/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/OctaEDLP00/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "open",
+                "locked": false,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2026-01-15T01:35:07Z",
+                "updated_at": "2026-07-07T20:35:43Z",
+                "closed_at": null,
+                "assignee": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "gojs.app\n\n<img width=\"619\" height=\"117\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/33c196df-ecde-4217-9d7e-411910d2a9e8\" />\n\nZed Editor\n\n<img width=\"616\" height=\"206\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/49946eb7-567c-4d34-8ac4-c5907061a22c\" />",
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/gojs-issues/issues/19/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/midudev/gojs-issues/issues/19/timeline",
+                "performed_via_github_app": null,
+                "state_reason": null,
+                "pinned_comment": null
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/midudev/gojs-issues/issues/comments/4908464282",
+                "html_url": "https://github.com/midudev/gojs-issues/issues/19#issuecomment-4908464282",
+                "issue_url": "https://api.github.com/repos/midudev/gojs-issues/issues/19",
+                "id": 4908464282,
+                "node_id": "IC_kwDOQBdZAs8AAAABJJE4mg",
+                "user": {
+                    "login": "midudev",
+                    "id": 1561955,
+                    "node_id": "MDQ6VXNlcjE1NjE5NTU=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/1561955?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/midudev",
+                    "html_url": "https://github.com/midudev",
+                    "followers_url": "https://api.github.com/users/midudev/followers",
+                    "following_url": "https://api.github.com/users/midudev/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/midudev/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/midudev/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/midudev/subscriptions",
+                    "organizations_url": "https://api.github.com/users/midudev/orgs",
+                    "repos_url": "https://api.github.com/users/midudev/repos",
+                    "events_url": "https://api.github.com/users/midudev/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/midudev/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "created_at": "2026-07-07T20:35:43Z",
+                "updated_at": "2026-07-07T20:35:43Z",
+                "body": "\u00a1Gracias por la propuesta! Es una buena feature (hover con info de tipos/s\u00edmbolos al estilo Zed/VS Code). La dejo abierta como feature request.\n\nPara acotar el alcance, \u00bfqu\u00e9 informaci\u00f3n esperar\u00edas ver en el popover principalmente?\n- **Tipos inferidos** (como el TS language service: firma de funciones, tipo de variables).\n- **JSDoc / documentaci\u00f3n** del s\u00edmbolo.\n- **Valor en runtime** de la variable tras ejecutar (m\u00e1s propio de un playground).\n\nCon eso decido si tirar de las capacidades del language service que ya trae Monaco o de algo a medida basado en el AST + resultados de ejecuci\u00f3n.",
+                "pin": null,
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/gojs-issues/issues/comments/4908464282/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "performed_via_github_app": null
+            }
+        },
+        "public": true,
+        "created_at": "2026-07-07T20:35:43Z"
+    },
+    {
+        "id": "11479528974",
+        "type": "IssueCommentEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1075271938,
+            "name": "midudev/gojs-issues",
+            "url": "https://api.github.com/repos/midudev/gojs-issues"
+        },
+        "payload": {
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/midudev/gojs-issues/issues/3",
+                "repository_url": "https://api.github.com/repos/midudev/gojs-issues",
+                "labels_url": "https://api.github.com/repos/midudev/gojs-issues/issues/3/labels{/name}",
+                "comments_url": "https://api.github.com/repos/midudev/gojs-issues/issues/3/comments",
+                "events_url": "https://api.github.com/repos/midudev/gojs-issues/issues/3/events",
+                "html_url": "https://github.com/midudev/gojs-issues/issues/3",
+                "id": 3511404140,
+                "node_id": "I_kwDOQBdZAs7RS8Zs",
+                "number": 3,
+                "title": "Tooltip malposicionado en onHover buttons",
+                "user": {
+                    "login": "Franz1241",
+                    "id": 72873924,
+                    "node_id": "MDQ6VXNlcjcyODczOTI0",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/72873924?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Franz1241",
+                    "html_url": "https://github.com/Franz1241",
+                    "followers_url": "https://api.github.com/users/Franz1241/followers",
+                    "following_url": "https://api.github.com/users/Franz1241/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Franz1241/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Franz1241/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Franz1241/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Franz1241/orgs",
+                    "repos_url": "https://api.github.com/users/Franz1241/repos",
+                    "events_url": "https://api.github.com/users/Franz1241/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Franz1241/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "closed",
+                "locked": false,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2025-10-13T20:32:38Z",
+                "updated_at": "2026-07-07T20:35:19Z",
+                "closed_at": "2026-07-07T20:35:19Z",
+                "assignee": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "<img width=\"3398\" height=\"364\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/e613e6a1-e0c2-407d-a786-b0b108af97f7\" />\n\nBotones del navbar renderean un popup on hover mal posicionado usando Zen Browser 1.16.4b (Firefox 143.0.4) (aarch64)",
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/gojs-issues/issues/3/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/midudev/gojs-issues/issues/3/timeline",
+                "performed_via_github_app": null,
+                "state_reason": "completed",
+                "pinned_comment": null
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/midudev/gojs-issues/issues/comments/4908458045",
+                "html_url": "https://github.com/midudev/gojs-issues/issues/3#issuecomment-4908458045",
+                "issue_url": "https://api.github.com/repos/midudev/gojs-issues/issues/3",
+                "id": 4908458045,
+                "node_id": "IC_kwDOQBdZAs8AAAABJJEgPQ",
+                "user": {
+                    "login": "midudev",
+                    "id": 1561955,
+                    "node_id": "MDQ6VXNlcjE1NjE5NTU=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/1561955?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/midudev",
+                    "html_url": "https://github.com/midudev",
+                    "followers_url": "https://api.github.com/users/midudev/followers",
+                    "following_url": "https://api.github.com/users/midudev/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/midudev/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/midudev/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/midudev/subscriptions",
+                    "organizations_url": "https://api.github.com/users/midudev/orgs",
+                    "repos_url": "https://api.github.com/users/midudev/repos",
+                    "events_url": "https://api.github.com/users/midudev/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/midudev/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "created_at": "2026-07-07T20:35:19Z",
+                "updated_at": "2026-07-07T20:35:19Z",
+                "body": "Arreglado \u2705\n\nLos tooltips del navbar se posicionaban con **CSS Anchor Positioning** (`anchor(bottom)`, `anchor(center)`) y `showPopover({ source })`, que Firefox/Zen a\u00fan no soportan \u2192 el popover ca\u00eda a su posici\u00f3n por defecto (mal ubicado).\n\nAhora la posici\u00f3n se calcula por JS con `getBoundingClientRect()` (debajo y centrado respecto al bot\u00f3n, con clamp a los bordes de la ventana), lo que funciona en todos los navegadores incluido Zen/Firefox. Verificado: el tooltip queda 6px por debajo del bot\u00f3n y perfectamente centrado.\n\nFix en midudev/gojs@071b772. Despleg\u00e1ndose en gojs.app.",
+                "pin": null,
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/gojs-issues/issues/comments/4908458045/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "performed_via_github_app": null
+            }
+        },
+        "public": true,
+        "created_at": "2026-07-07T20:35:19Z"
+    },
+    {
+        "id": "11479526944",
+        "type": "IssueCommentEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1075271938,
+            "name": "midudev/gojs-issues",
+            "url": "https://api.github.com/repos/midudev/gojs-issues"
+        },
+        "payload": {
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/midudev/gojs-issues/issues/22",
+                "repository_url": "https://api.github.com/repos/midudev/gojs-issues",
+                "labels_url": "https://api.github.com/repos/midudev/gojs-issues/issues/22/labels{/name}",
+                "comments_url": "https://api.github.com/repos/midudev/gojs-issues/issues/22/comments",
+                "events_url": "https://api.github.com/repos/midudev/gojs-issues/issues/22/events",
+                "html_url": "https://github.com/midudev/gojs-issues/issues/22",
+                "id": 4422543607,
+                "node_id": "I_kwDOQBdZAs8AAAABB5qo9w",
+                "number": 22,
+                "title": "Request: Desktop app",
+                "user": {
+                    "login": "rxtsel",
+                    "id": 85462420,
+                    "node_id": "MDQ6VXNlcjg1NDYyNDIw",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/85462420?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/rxtsel",
+                    "html_url": "https://github.com/rxtsel",
+                    "followers_url": "https://api.github.com/users/rxtsel/followers",
+                    "following_url": "https://api.github.com/users/rxtsel/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/rxtsel/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/rxtsel/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/rxtsel/subscriptions",
+                    "organizations_url": "https://api.github.com/users/rxtsel/orgs",
+                    "repos_url": "https://api.github.com/users/rxtsel/repos",
+                    "events_url": "https://api.github.com/users/rxtsel/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/rxtsel/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "open",
+                "locked": false,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2026-05-11T16:36:19Z",
+                "updated_at": "2026-07-07T20:35:44Z",
+                "closed_at": null,
+                "assignee": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "## Summary\n\nIt would be great to have a desktop version of GoJS for Linux, macOS, and Windows.\n\n## Motivation\n\nA desktop app could improve the developer experience by making GoJS easier to access outside the browser, especially for users who use it frequently or prefer native desktop workflows.\n\n## Suggestion\n\nOne possible approach could be to build it as a lightweight desktop app using Tauri, which may help keep the app small, fast, and resource-efficient while still supporting cross-platform distribution.\n\n## Potential benefits\n\n- Faster access without needing to open the browser manually.\n- Better integration with the operating system.\n- More comfortable workflow for users who use GoJS frequently.\n- Potential support for offline usage, if that fits the product direction.\n\n## Suggested platforms\n\n- Linux\n- macOS\n- Windows",
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/gojs-issues/issues/22/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/midudev/gojs-issues/issues/22/timeline",
+                "performed_via_github_app": null,
+                "state_reason": null,
+                "pinned_comment": null
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/midudev/gojs-issues/issues/comments/4908464481",
+                "html_url": "https://github.com/midudev/gojs-issues/issues/22#issuecomment-4908464481",
+                "issue_url": "https://api.github.com/repos/midudev/gojs-issues/issues/22",
+                "id": 4908464481,
+                "node_id": "IC_kwDOQBdZAs8AAAABJJE5YQ",
+                "user": {
+                    "login": "midudev",
+                    "id": 1561955,
+                    "node_id": "MDQ6VXNlcjE1NjE5NTU=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/1561955?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/midudev",
+                    "html_url": "https://github.com/midudev",
+                    "followers_url": "https://api.github.com/users/midudev/followers",
+                    "following_url": "https://api.github.com/users/midudev/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/midudev/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/midudev/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/midudev/subscriptions",
+                    "organizations_url": "https://api.github.com/users/midudev/orgs",
+                    "repos_url": "https://api.github.com/users/midudev/repos",
+                    "events_url": "https://api.github.com/users/midudev/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/midudev/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "created_at": "2026-07-07T20:35:44Z",
+                "updated_at": "2026-07-07T20:35:44Z",
+                "body": "\u00a1Gracias! Buena noticia: ya hay trabajo en marcha en esta direcci\u00f3n. En el repo existe un scaffold de runner nativo (`native/`, commit `feat(native): Add Zig runner scaffold`) que apunta justo a empaquetar gojs como app de escritorio multiplataforma.\n\nLa dejo abierta para seguir el progreso. Se valor\u00f3 Tauri, aunque el enfoque actual explora un runner propio (Zig + CEF) para mantener el binario peque\u00f1o y r\u00e1pido. Cuando haya builds para Linux/macOS/Windows se actualizar\u00e1 aqu\u00ed.",
+                "pin": null,
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/gojs-issues/issues/comments/4908464481/reactions",
+                    "total_count": 1,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 1,
+                    "eyes": 0
+                },
+                "performed_via_github_app": null
+            }
+        },
+        "public": true,
+        "created_at": "2026-07-07T20:35:44Z"
+    },
+    {
+        "id": "11479512934",
+        "type": "IssueCommentEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1075271938,
+            "name": "midudev/gojs-issues",
+            "url": "https://api.github.com/repos/midudev/gojs-issues"
+        },
+        "payload": {
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/midudev/gojs-issues/issues/16",
+                "repository_url": "https://api.github.com/repos/midudev/gojs-issues",
+                "labels_url": "https://api.github.com/repos/midudev/gojs-issues/issues/16/labels{/name}",
+                "comments_url": "https://api.github.com/repos/midudev/gojs-issues/issues/16/comments",
+                "events_url": "https://api.github.com/repos/midudev/gojs-issues/issues/16/events",
+                "html_url": "https://github.com/midudev/gojs-issues/issues/16",
+                "id": 3690389949,
+                "node_id": "I_kwDOQBdZAs7b9uG9",
+                "number": 16,
+                "title": "log-entry duplicado",
+                "user": {
+                    "login": "adcuelloa",
+                    "id": 116418593,
+                    "node_id": "U_kgDOBvBoIQ",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/116418593?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/adcuelloa",
+                    "html_url": "https://github.com/adcuelloa",
+                    "followers_url": "https://api.github.com/users/adcuelloa/followers",
+                    "following_url": "https://api.github.com/users/adcuelloa/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/adcuelloa/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/adcuelloa/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/adcuelloa/subscriptions",
+                    "organizations_url": "https://api.github.com/users/adcuelloa/orgs",
+                    "repos_url": "https://api.github.com/users/adcuelloa/repos",
+                    "events_url": "https://api.github.com/users/adcuelloa/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/adcuelloa/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "closed",
+                "locked": false,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2025-12-03T14:03:41Z",
+                "updated_at": "2026-07-07T20:35:22Z",
+                "closed_at": "2026-07-07T20:35:22Z",
+                "assignee": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "Hay un duplicado de log-entry. Se repite el log-entry de L30\n\nentry 1\n<img width=\"1897\" height=\"941\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/3e24d13a-82d5-432b-ab47-01696a7b25a6\" />\n\nentry2 - al final\n<img width=\"1897\" height=\"941\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/efff049c-b40a-460a-80d7-95480b5154cb\" />",
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/gojs-issues/issues/16/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/midudev/gojs-issues/issues/16/timeline",
+                "performed_via_github_app": null,
+                "state_reason": "completed",
+                "pinned_comment": null
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/midudev/gojs-issues/issues/comments/4908458798",
+                "html_url": "https://github.com/midudev/gojs-issues/issues/16#issuecomment-4908458798",
+                "issue_url": "https://api.github.com/repos/midudev/gojs-issues/issues/16",
+                "id": 4908458798,
+                "node_id": "IC_kwDOQBdZAs8AAAABJJEjLg",
+                "user": {
+                    "login": "midudev",
+                    "id": 1561955,
+                    "node_id": "MDQ6VXNlcjE1NjE5NTU=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/1561955?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/midudev",
+                    "html_url": "https://github.com/midudev",
+                    "followers_url": "https://api.github.com/users/midudev/followers",
+                    "following_url": "https://api.github.com/users/midudev/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/midudev/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/midudev/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/midudev/subscriptions",
+                    "organizations_url": "https://api.github.com/users/midudev/orgs",
+                    "repos_url": "https://api.github.com/users/midudev/repos",
+                    "events_url": "https://api.github.com/users/midudev/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/midudev/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "created_at": "2026-07-07T20:35:22Z",
+                "updated_at": "2026-07-07T20:35:22Z",
+                "body": "Arreglado \u2705\n\nEl worker de ejecuci\u00f3n se **reutilizaba** entre ejecuciones. Si una ejecuci\u00f3n dejaba callbacks as\u00edncronos pendientes (timers, promesas), estos pod\u00edan dispararse **despu\u00e9s** de que la siguiente ejecuci\u00f3n limpiara la salida, escribiendo un log \"hu\u00e9rfano\" al final \u2192 el duplicado que ve\u00edas.\n\nAhora el worker se **recrea en cada ejecuci\u00f3n**, lo que garantiza un contexto limpio y mata cualquier callback pendiente de runs anteriores.\n\nFix en midudev/gojs@071b772. Despleg\u00e1ndose en gojs.app. Si consigues reproducir de nuevo un log-entry duplicado, re\u00e1brela con el c\u00f3digo de ejemplo y lo miro.",
+                "pin": null,
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/gojs-issues/issues/comments/4908458798/reactions",
+                    "total_count": 1,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 1,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "performed_via_github_app": null
+            }
+        },
+        "public": true,
+        "created_at": "2026-07-07T20:35:22Z"
+    },
+    {
+        "id": "11479512535",
+        "type": "IssuesEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1075271938,
+            "name": "midudev/gojs-issues",
+            "url": "https://api.github.com/repos/midudev/gojs-issues"
+        },
+        "payload": {
+            "action": "closed",
+            "issue": {
+                "url": "https://api.github.com/repos/midudev/gojs-issues/issues/16",
+                "repository_url": "https://api.github.com/repos/midudev/gojs-issues",
+                "labels_url": "https://api.github.com/repos/midudev/gojs-issues/issues/16/labels{/name}",
+                "comments_url": "https://api.github.com/repos/midudev/gojs-issues/issues/16/comments",
+                "events_url": "https://api.github.com/repos/midudev/gojs-issues/issues/16/events",
+                "html_url": "https://github.com/midudev/gojs-issues/issues/16",
+                "id": 3690389949,
+                "node_id": "I_kwDOQBdZAs7b9uG9",
+                "number": 16,
+                "title": "log-entry duplicado",
+                "user": {
+                    "login": "adcuelloa",
+                    "id": 116418593,
+                    "node_id": "U_kgDOBvBoIQ",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/116418593?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/adcuelloa",
+                    "html_url": "https://github.com/adcuelloa",
+                    "followers_url": "https://api.github.com/users/adcuelloa/followers",
+                    "following_url": "https://api.github.com/users/adcuelloa/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/adcuelloa/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/adcuelloa/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/adcuelloa/subscriptions",
+                    "organizations_url": "https://api.github.com/users/adcuelloa/orgs",
+                    "repos_url": "https://api.github.com/users/adcuelloa/repos",
+                    "events_url": "https://api.github.com/users/adcuelloa/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/adcuelloa/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "closed",
+                "locked": false,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2025-12-03T14:03:41Z",
+                "updated_at": "2026-07-07T20:35:22Z",
+                "closed_at": "2026-07-07T20:35:22Z",
+                "assignee": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "Hay un duplicado de log-entry. Se repite el log-entry de L30\n\nentry 1\n<img width=\"1897\" height=\"941\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/3e24d13a-82d5-432b-ab47-01696a7b25a6\" />\n\nentry2 - al final\n<img width=\"1897\" height=\"941\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/efff049c-b40a-460a-80d7-95480b5154cb\" />",
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/gojs-issues/issues/16/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/midudev/gojs-issues/issues/16/timeline",
+                "performed_via_github_app": null,
+                "state_reason": "completed",
+                "pinned_comment": null
+            }
+        },
+        "public": true,
+        "created_at": "2026-07-07T20:35:23Z"
+    },
+    {
+        "id": "11479511620",
+        "type": "IssueCommentEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1075271938,
+            "name": "midudev/gojs-issues",
+            "url": "https://api.github.com/repos/midudev/gojs-issues"
+        },
+        "payload": {
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/midudev/gojs-issues/issues/24",
+                "repository_url": "https://api.github.com/repos/midudev/gojs-issues",
+                "labels_url": "https://api.github.com/repos/midudev/gojs-issues/issues/24/labels{/name}",
+                "comments_url": "https://api.github.com/repos/midudev/gojs-issues/issues/24/comments",
+                "events_url": "https://api.github.com/repos/midudev/gojs-issues/issues/24/events",
+                "html_url": "https://github.com/midudev/gojs-issues/issues/24",
+                "id": 4424688130,
+                "node_id": "I_kwDOQBdZAs8AAAABB7tiAg",
+                "number": 24,
+                "title": "No es posible ver los selects con varios themes",
+                "user": {
+                    "login": "GuidoPerezR",
+                    "id": 99307501,
+                    "node_id": "U_kgDOBetP7Q",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/99307501?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/GuidoPerezR",
+                    "html_url": "https://github.com/GuidoPerezR",
+                    "followers_url": "https://api.github.com/users/GuidoPerezR/followers",
+                    "following_url": "https://api.github.com/users/GuidoPerezR/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/GuidoPerezR/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/GuidoPerezR/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/GuidoPerezR/subscriptions",
+                    "organizations_url": "https://api.github.com/users/GuidoPerezR/orgs",
+                    "repos_url": "https://api.github.com/users/GuidoPerezR/repos",
+                    "events_url": "https://api.github.com/users/GuidoPerezR/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/GuidoPerezR/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "closed",
+                "locked": false,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2026-05-11T22:18:18Z",
+                "updated_at": "2026-07-07T20:35:21Z",
+                "closed_at": "2026-07-07T20:35:21Z",
+                "assignee": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "Esto usando el theme de One Dark Pro y los selects de la p\u00e1gina me aparecen asi.\n\n<img width=\"560\" height=\"283\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/aecf380d-1efe-4ac6-9143-0306ed06ba47\" />\n\nSolo logro ver las opciones al hacer hover. \n\nIgual con otros themes no hay mucho contraste",
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/gojs-issues/issues/24/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/midudev/gojs-issues/issues/24/timeline",
+                "performed_via_github_app": null,
+                "state_reason": "completed",
+                "pinned_comment": null
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/midudev/gojs-issues/issues/comments/4908458450",
+                "html_url": "https://github.com/midudev/gojs-issues/issues/24#issuecomment-4908458450",
+                "issue_url": "https://api.github.com/repos/midudev/gojs-issues/issues/24",
+                "id": 4908458450,
+                "node_id": "IC_kwDOQBdZAs8AAAABJJEh0g",
+                "user": {
+                    "login": "midudev",
+                    "id": 1561955,
+                    "node_id": "MDQ6VXNlcjE1NjE5NTU=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/1561955?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/midudev",
+                    "html_url": "https://github.com/midudev",
+                    "followers_url": "https://api.github.com/users/midudev/followers",
+                    "following_url": "https://api.github.com/users/midudev/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/midudev/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/midudev/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/midudev/subscriptions",
+                    "organizations_url": "https://api.github.com/users/midudev/orgs",
+                    "repos_url": "https://api.github.com/users/midudev/repos",
+                    "events_url": "https://api.github.com/users/midudev/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/midudev/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "created_at": "2026-07-07T20:35:20Z",
+                "updated_at": "2026-07-07T20:35:20Z",
+                "body": "Arreglado \u2705\n\nSe corrigi\u00f3 el contraste de las `option` de los selects, que ahora usan el fondo y el color de texto del theme activo. Verificado con One Dark Pro y el resto de themes; el contraste queda muy por encima del m\u00ednimo WCAG AA en todos:\n\n| Theme | Contraste |\n|---|---|\n| One Dark Pro | 7.74:1 |\n| Vitesse Dark | 12.33:1 |\n| Dracula | 13.36:1 |\n| Monokai | 9.44:1 |\n| Nord | 7.45:1 |\n| GitHub Dark/Light | 8.30:1 |\n| Tokyo Night | ~4.5:1 |\n\nSi con alg\u00fan theme concreto sigues viendo poco contraste, d\u00edmelo y lo afino. Despleg\u00e1ndose en gojs.app.",
+                "pin": null,
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/gojs-issues/issues/comments/4908458450/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "performed_via_github_app": null
+            }
+        },
+        "public": true,
+        "created_at": "2026-07-07T20:35:20Z"
+    },
+    {
+        "id": "11479511278",
+        "type": "IssuesEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1075271938,
+            "name": "midudev/gojs-issues",
+            "url": "https://api.github.com/repos/midudev/gojs-issues"
+        },
+        "payload": {
+            "action": "closed",
+            "issue": {
+                "url": "https://api.github.com/repos/midudev/gojs-issues/issues/24",
+                "repository_url": "https://api.github.com/repos/midudev/gojs-issues",
+                "labels_url": "https://api.github.com/repos/midudev/gojs-issues/issues/24/labels{/name}",
+                "comments_url": "https://api.github.com/repos/midudev/gojs-issues/issues/24/comments",
+                "events_url": "https://api.github.com/repos/midudev/gojs-issues/issues/24/events",
+                "html_url": "https://github.com/midudev/gojs-issues/issues/24",
+                "id": 4424688130,
+                "node_id": "I_kwDOQBdZAs8AAAABB7tiAg",
+                "number": 24,
+                "title": "No es posible ver los selects con varios themes",
+                "user": {
+                    "login": "GuidoPerezR",
+                    "id": 99307501,
+                    "node_id": "U_kgDOBetP7Q",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/99307501?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/GuidoPerezR",
+                    "html_url": "https://github.com/GuidoPerezR",
+                    "followers_url": "https://api.github.com/users/GuidoPerezR/followers",
+                    "following_url": "https://api.github.com/users/GuidoPerezR/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/GuidoPerezR/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/GuidoPerezR/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/GuidoPerezR/subscriptions",
+                    "organizations_url": "https://api.github.com/users/GuidoPerezR/orgs",
+                    "repos_url": "https://api.github.com/users/GuidoPerezR/repos",
+                    "events_url": "https://api.github.com/users/GuidoPerezR/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/GuidoPerezR/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "closed",
+                "locked": false,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2026-05-11T22:18:18Z",
+                "updated_at": "2026-07-07T20:35:21Z",
+                "closed_at": "2026-07-07T20:35:21Z",
+                "assignee": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "Esto usando el theme de One Dark Pro y los selects de la p\u00e1gina me aparecen asi.\n\n<img width=\"560\" height=\"283\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/aecf380d-1efe-4ac6-9143-0306ed06ba47\" />\n\nSolo logro ver las opciones al hacer hover. \n\nIgual con otros themes no hay mucho contraste",
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/gojs-issues/issues/24/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/midudev/gojs-issues/issues/24/timeline",
+                "performed_via_github_app": null,
+                "state_reason": "completed",
+                "pinned_comment": null
+            }
+        },
+        "public": true,
+        "created_at": "2026-07-07T20:35:21Z"
+    },
+    {
+        "id": "11479510189",
+        "type": "IssuesEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1075271938,
+            "name": "midudev/gojs-issues",
+            "url": "https://api.github.com/repos/midudev/gojs-issues"
+        },
+        "payload": {
+            "action": "closed",
+            "issue": {
+                "url": "https://api.github.com/repos/midudev/gojs-issues/issues/3",
+                "repository_url": "https://api.github.com/repos/midudev/gojs-issues",
+                "labels_url": "https://api.github.com/repos/midudev/gojs-issues/issues/3/labels{/name}",
+                "comments_url": "https://api.github.com/repos/midudev/gojs-issues/issues/3/comments",
+                "events_url": "https://api.github.com/repos/midudev/gojs-issues/issues/3/events",
+                "html_url": "https://github.com/midudev/gojs-issues/issues/3",
+                "id": 3511404140,
+                "node_id": "I_kwDOQBdZAs7RS8Zs",
+                "number": 3,
+                "title": "Tooltip malposicionado en onHover buttons",
+                "user": {
+                    "login": "Franz1241",
+                    "id": 72873924,
+                    "node_id": "MDQ6VXNlcjcyODczOTI0",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/72873924?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Franz1241",
+                    "html_url": "https://github.com/Franz1241",
+                    "followers_url": "https://api.github.com/users/Franz1241/followers",
+                    "following_url": "https://api.github.com/users/Franz1241/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Franz1241/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Franz1241/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Franz1241/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Franz1241/orgs",
+                    "repos_url": "https://api.github.com/users/Franz1241/repos",
+                    "events_url": "https://api.github.com/users/Franz1241/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Franz1241/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "closed",
+                "locked": false,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2025-10-13T20:32:38Z",
+                "updated_at": "2026-07-07T20:35:19Z",
+                "closed_at": "2026-07-07T20:35:19Z",
+                "assignee": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "<img width=\"3398\" height=\"364\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/e613e6a1-e0c2-407d-a786-b0b108af97f7\" />\n\nBotones del navbar renderean un popup on hover mal posicionado usando Zen Browser 1.16.4b (Firefox 143.0.4) (aarch64)",
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/gojs-issues/issues/3/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/midudev/gojs-issues/issues/3/timeline",
+                "performed_via_github_app": null,
+                "state_reason": "completed",
+                "pinned_comment": null
+            }
+        },
+        "public": true,
+        "created_at": "2026-07-07T20:35:19Z"
+    },
+    {
+        "id": "11479498603",
+        "type": "IssueCommentEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1075271938,
+            "name": "midudev/gojs-issues",
+            "url": "https://api.github.com/repos/midudev/gojs-issues"
+        },
+        "payload": {
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/midudev/gojs-issues/issues/11",
+                "repository_url": "https://api.github.com/repos/midudev/gojs-issues",
+                "labels_url": "https://api.github.com/repos/midudev/gojs-issues/issues/11/labels{/name}",
+                "comments_url": "https://api.github.com/repos/midudev/gojs-issues/issues/11/comments",
+                "events_url": "https://api.github.com/repos/midudev/gojs-issues/issues/11/events",
+                "html_url": "https://github.com/midudev/gojs-issues/issues/11",
+                "id": 3522278985,
+                "node_id": "I_kwDOQBdZAs7R8bZJ",
+                "number": 11,
+                "title": "Cant' import modules from skypack CDN for example",
+                "user": {
+                    "login": "julio-burgos",
+                    "id": 19196611,
+                    "node_id": "MDQ6VXNlcjE5MTk2NjEx",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/19196611?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/julio-burgos",
+                    "html_url": "https://github.com/julio-burgos",
+                    "followers_url": "https://api.github.com/users/julio-burgos/followers",
+                    "following_url": "https://api.github.com/users/julio-burgos/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/julio-burgos/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/julio-burgos/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/julio-burgos/subscriptions",
+                    "organizations_url": "https://api.github.com/users/julio-burgos/orgs",
+                    "repos_url": "https://api.github.com/users/julio-burgos/repos",
+                    "events_url": "https://api.github.com/users/julio-burgos/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/julio-burgos/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "closed",
+                "locked": false,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2025-10-16T14:57:28Z",
+                "updated_at": "2026-07-07T20:35:01Z",
+                "closed_at": "2026-07-07T20:35:01Z",
+                "assignee": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "The script should be type mpdule for importing esm modules. \nfor example this code is not valid\n`import confetti from 'https://cdn.skypack.dev/canvas-confetti';\nconfetti();`\n\n<img width=\"683\" height=\"453\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/77508fad-0c2e-4f44-bbea-870f4b6bca8e\" />",
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/gojs-issues/issues/11/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/midudev/gojs-issues/issues/11/timeline",
+                "performed_via_github_app": null,
+                "state_reason": "completed",
+                "pinned_comment": null
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/midudev/gojs-issues/issues/comments/4908453129",
+                "html_url": "https://github.com/midudev/gojs-issues/issues/11#issuecomment-4908453129",
+                "issue_url": "https://api.github.com/repos/midudev/gojs-issues/issues/11",
+                "id": 4908453129,
+                "node_id": "IC_kwDOQBdZAs8AAAABJJENCQ",
+                "user": {
+                    "login": "midudev",
+                    "id": 1561955,
+                    "node_id": "MDQ6VXNlcjE1NjE5NTU=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/1561955?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/midudev",
+                    "html_url": "https://github.com/midudev",
+                    "followers_url": "https://api.github.com/users/midudev/followers",
+                    "following_url": "https://api.github.com/users/midudev/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/midudev/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/midudev/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/midudev/subscriptions",
+                    "organizations_url": "https://api.github.com/users/midudev/orgs",
+                    "repos_url": "https://api.github.com/users/midudev/repos",
+                    "events_url": "https://api.github.com/users/midudev/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/midudev/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "created_at": "2026-07-07T20:35:00Z",
+                "updated_at": "2026-07-07T20:35:00Z",
+                "body": "Arreglado \u2705\n\nAhora se pueden importar m\u00f3dulos ESM. Los `import` est\u00e1ticos se reescriben a `import()` din\u00e1micos (el `AsyncFunction` de ejecuci\u00f3n no admite import est\u00e1tico), preservando el n\u00famero de l\u00edneas para no descuadrar la consola.\n\nFunciona con:\n- URLs completas de CDN: `import confetti from 'https://cdn.skypack.dev/canvas-confetti'`\n- bare specifiers de npm, que se resuelven contra esm.sh: `import { z } from 'zod'`\n\nVerificado en el navegador con `dayjs` (URL) y `nanoid` (bare specifier).\n\nFix en midudev/gojs@071b772. Despleg\u00e1ndose en gojs.app.",
+                "pin": null,
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/gojs-issues/issues/comments/4908453129/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "performed_via_github_app": null
+            }
+        },
+        "public": true,
+        "created_at": "2026-07-07T20:35:00Z"
+    },
+    {
+        "id": "11479498549",
+        "type": "IssuesEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1075271938,
+            "name": "midudev/gojs-issues",
+            "url": "https://api.github.com/repos/midudev/gojs-issues"
+        },
+        "payload": {
+            "action": "closed",
+            "issue": {
+                "url": "https://api.github.com/repos/midudev/gojs-issues/issues/11",
+                "repository_url": "https://api.github.com/repos/midudev/gojs-issues",
+                "labels_url": "https://api.github.com/repos/midudev/gojs-issues/issues/11/labels{/name}",
+                "comments_url": "https://api.github.com/repos/midudev/gojs-issues/issues/11/comments",
+                "events_url": "https://api.github.com/repos/midudev/gojs-issues/issues/11/events",
+                "html_url": "https://github.com/midudev/gojs-issues/issues/11",
+                "id": 3522278985,
+                "node_id": "I_kwDOQBdZAs7R8bZJ",
+                "number": 11,
+                "title": "Cant' import modules from skypack CDN for example",
+                "user": {
+                    "login": "julio-burgos",
+                    "id": 19196611,
+                    "node_id": "MDQ6VXNlcjE5MTk2NjEx",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/19196611?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/julio-burgos",
+                    "html_url": "https://github.com/julio-burgos",
+                    "followers_url": "https://api.github.com/users/julio-burgos/followers",
+                    "following_url": "https://api.github.com/users/julio-burgos/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/julio-burgos/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/julio-burgos/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/julio-burgos/subscriptions",
+                    "organizations_url": "https://api.github.com/users/julio-burgos/orgs",
+                    "repos_url": "https://api.github.com/users/julio-burgos/repos",
+                    "events_url": "https://api.github.com/users/julio-burgos/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/julio-burgos/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "closed",
+                "locked": false,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2025-10-16T14:57:28Z",
+                "updated_at": "2026-07-07T20:35:01Z",
+                "closed_at": "2026-07-07T20:35:01Z",
+                "assignee": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "The script should be type mpdule for importing esm modules. \nfor example this code is not valid\n`import confetti from 'https://cdn.skypack.dev/canvas-confetti';\nconfetti();`\n\n<img width=\"683\" height=\"453\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/77508fad-0c2e-4f44-bbea-870f4b6bca8e\" />",
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/gojs-issues/issues/11/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/midudev/gojs-issues/issues/11/timeline",
+                "performed_via_github_app": null,
+                "state_reason": "completed",
+                "pinned_comment": null
+            }
+        },
+        "public": true,
+        "created_at": "2026-07-07T20:35:01Z"
+    },
+    {
+        "id": "11479497696",
+        "type": "IssueCommentEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1075271938,
+            "name": "midudev/gojs-issues",
+            "url": "https://api.github.com/repos/midudev/gojs-issues"
+        },
+        "payload": {
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/midudev/gojs-issues/issues/23",
+                "repository_url": "https://api.github.com/repos/midudev/gojs-issues",
+                "labels_url": "https://api.github.com/repos/midudev/gojs-issues/issues/23/labels{/name}",
+                "comments_url": "https://api.github.com/repos/midudev/gojs-issues/issues/23/comments",
+                "events_url": "https://api.github.com/repos/midudev/gojs-issues/issues/23/events",
+                "html_url": "https://github.com/midudev/gojs-issues/issues/23",
+                "id": 4424494072,
+                "node_id": "I_kwDOQBdZAs8AAAABB7hr-A",
+                "number": 23,
+                "title": "N\u00famero de l\u00ednea incorrecto cuando s\u00f3lo hay una l\u00ednea",
+                "user": {
+                    "login": "man-avi",
+                    "id": 50862161,
+                    "node_id": "MDQ6VXNlcjUwODYyMTYx",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/50862161?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/man-avi",
+                    "html_url": "https://github.com/man-avi",
+                    "followers_url": "https://api.github.com/users/man-avi/followers",
+                    "following_url": "https://api.github.com/users/man-avi/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/man-avi/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/man-avi/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/man-avi/subscriptions",
+                    "organizations_url": "https://api.github.com/users/man-avi/orgs",
+                    "repos_url": "https://api.github.com/users/man-avi/repos",
+                    "events_url": "https://api.github.com/users/man-avi/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/man-avi/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "closed",
+                "locked": false,
+                "assignees": [],
+                "milestone": null,
+                "comments": 2,
+                "created_at": "2026-05-11T21:40:30Z",
+                "updated_at": "2026-07-07T20:34:59Z",
+                "closed_at": "2026-07-07T20:34:59Z",
+                "assignee": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "Cuando en el c\u00f3digo s\u00f3lo hay una l\u00ednea que hace un console.log() en el \u00e1rea de salida se muestra incorrectamente L2 (l\u00ednea 2).\n<img width=\"953\" height=\"163\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/995be705-2ac5-4c90-b86b-9d6ad2874a67\" />\n\nSaludos!",
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/gojs-issues/issues/23/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/midudev/gojs-issues/issues/23/timeline",
+                "performed_via_github_app": null,
+                "state_reason": "completed",
+                "pinned_comment": null
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/midudev/gojs-issues/issues/comments/4908452688",
+                "html_url": "https://github.com/midudev/gojs-issues/issues/23#issuecomment-4908452688",
+                "issue_url": "https://api.github.com/repos/midudev/gojs-issues/issues/23",
+                "id": 4908452688,
+                "node_id": "IC_kwDOQBdZAs8AAAABJJELUA",
+                "user": {
+                    "login": "midudev",
+                    "id": 1561955,
+                    "node_id": "MDQ6VXNlcjE1NjE5NTU=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/1561955?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/midudev",
+                    "html_url": "https://github.com/midudev",
+                    "followers_url": "https://api.github.com/users/midudev/followers",
+                    "following_url": "https://api.github.com/users/midudev/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/midudev/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/midudev/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/midudev/subscriptions",
+                    "organizations_url": "https://api.github.com/users/midudev/orgs",
+                    "repos_url": "https://api.github.com/users/midudev/repos",
+                    "events_url": "https://api.github.com/users/midudev/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/midudev/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "created_at": "2026-07-07T20:34:59Z",
+                "updated_at": "2026-07-07T20:34:59Z",
+                "body": "Arreglado \u2705\n\nEl c\u00f3digo de usuario se ejecuta dentro de un `AsyncFunction`, cuyo wrapper a\u00f1ade l\u00edneas al inicio (V8 a\u00f1ade **2**, no 1 como se asum\u00eda) y adem\u00e1s hab\u00eda una doble resta al mapear. Con una sola l\u00ednea, un `console.log()` mostraba `L2` en vez de `L1`.\n\nAhora el desfase del wrapper se **calibra din\u00e1micamente** en el worker (funciona en cualquier motor) y el mapeo de l\u00edneas es 1:1. Verificado: `console.log()` en la l\u00ednea 1 muestra `L1`.\n\nFix en midudev/gojs@071b772. Despleg\u00e1ndose en gojs.app.",
+                "pin": null,
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/gojs-issues/issues/comments/4908452688/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "performed_via_github_app": null
+            }
+        },
+        "public": true,
+        "created_at": "2026-07-07T20:34:59Z"
+    },
+    {
+        "id": "11479497396",
+        "type": "IssuesEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1075271938,
+            "name": "midudev/gojs-issues",
+            "url": "https://api.github.com/repos/midudev/gojs-issues"
+        },
+        "payload": {
+            "action": "closed",
+            "issue": {
+                "url": "https://api.github.com/repos/midudev/gojs-issues/issues/23",
+                "repository_url": "https://api.github.com/repos/midudev/gojs-issues",
+                "labels_url": "https://api.github.com/repos/midudev/gojs-issues/issues/23/labels{/name}",
+                "comments_url": "https://api.github.com/repos/midudev/gojs-issues/issues/23/comments",
+                "events_url": "https://api.github.com/repos/midudev/gojs-issues/issues/23/events",
+                "html_url": "https://github.com/midudev/gojs-issues/issues/23",
+                "id": 4424494072,
+                "node_id": "I_kwDOQBdZAs8AAAABB7hr-A",
+                "number": 23,
+                "title": "N\u00famero de l\u00ednea incorrecto cuando s\u00f3lo hay una l\u00ednea",
+                "user": {
+                    "login": "man-avi",
+                    "id": 50862161,
+                    "node_id": "MDQ6VXNlcjUwODYyMTYx",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/50862161?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/man-avi",
+                    "html_url": "https://github.com/man-avi",
+                    "followers_url": "https://api.github.com/users/man-avi/followers",
+                    "following_url": "https://api.github.com/users/man-avi/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/man-avi/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/man-avi/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/man-avi/subscriptions",
+                    "organizations_url": "https://api.github.com/users/man-avi/orgs",
+                    "repos_url": "https://api.github.com/users/man-avi/repos",
+                    "events_url": "https://api.github.com/users/man-avi/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/man-avi/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "closed",
+                "locked": false,
+                "assignees": [],
+                "milestone": null,
+                "comments": 2,
+                "created_at": "2026-05-11T21:40:30Z",
+                "updated_at": "2026-07-07T20:34:59Z",
+                "closed_at": "2026-07-07T20:34:59Z",
+                "assignee": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "Cuando en el c\u00f3digo s\u00f3lo hay una l\u00ednea que hace un console.log() en el \u00e1rea de salida se muestra incorrectamente L2 (l\u00ednea 2).\n<img width=\"953\" height=\"163\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/995be705-2ac5-4c90-b86b-9d6ad2874a67\" />\n\nSaludos!",
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/gojs-issues/issues/23/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/midudev/gojs-issues/issues/23/timeline",
+                "performed_via_github_app": null,
+                "state_reason": "completed",
+                "pinned_comment": null
+            }
+        },
+        "public": true,
+        "created_at": "2026-07-07T20:35:00Z"
+    },
+    {
+        "id": "11479496274",
+        "type": "IssueCommentEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1075271938,
+            "name": "midudev/gojs-issues",
+            "url": "https://api.github.com/repos/midudev/gojs-issues"
+        },
+        "payload": {
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/midudev/gojs-issues/issues/25",
+                "repository_url": "https://api.github.com/repos/midudev/gojs-issues",
+                "labels_url": "https://api.github.com/repos/midudev/gojs-issues/issues/25/labels{/name}",
+                "comments_url": "https://api.github.com/repos/midudev/gojs-issues/issues/25/comments",
+                "events_url": "https://api.github.com/repos/midudev/gojs-issues/issues/25/events",
+                "html_url": "https://github.com/midudev/gojs-issues/issues/25",
+                "id": 4485882907,
+                "node_id": "I_kwDOQBdZAs8AAAABC2EkGw",
+                "number": 25,
+                "title": "No es posible hacer un console.log de Symbol",
+                "user": {
+                    "login": "ordazgustavo",
+                    "id": 25467646,
+                    "node_id": "MDQ6VXNlcjI1NDY3NjQ2",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/25467646?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/ordazgustavo",
+                    "html_url": "https://github.com/ordazgustavo",
+                    "followers_url": "https://api.github.com/users/ordazgustavo/followers",
+                    "following_url": "https://api.github.com/users/ordazgustavo/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/ordazgustavo/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/ordazgustavo/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/ordazgustavo/subscriptions",
+                    "organizations_url": "https://api.github.com/users/ordazgustavo/orgs",
+                    "repos_url": "https://api.github.com/users/ordazgustavo/repos",
+                    "events_url": "https://api.github.com/users/ordazgustavo/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/ordazgustavo/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "closed",
+                "locked": false,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2026-05-20T11:19:54Z",
+                "updated_at": "2026-07-07T20:34:57Z",
+                "closed_at": "2026-07-07T20:34:57Z",
+                "assignee": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "Hacer un console.log de un Symbol falla al no ser serializable\n\n<img width=\"1904\" height=\"802\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/134be207-252a-4b0e-b9e2-091018d9f6c2\" />",
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/gojs-issues/issues/25/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/midudev/gojs-issues/issues/25/timeline",
+                "performed_via_github_app": null,
+                "state_reason": "completed",
+                "pinned_comment": null
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/midudev/gojs-issues/issues/comments/4908452338",
+                "html_url": "https://github.com/midudev/gojs-issues/issues/25#issuecomment-4908452338",
+                "issue_url": "https://api.github.com/repos/midudev/gojs-issues/issues/25",
+                "id": 4908452338,
+                "node_id": "IC_kwDOQBdZAs8AAAABJJEJ8g",
+                "user": {
+                    "login": "midudev",
+                    "id": 1561955,
+                    "node_id": "MDQ6VXNlcjE1NjE5NTU=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/1561955?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/midudev",
+                    "html_url": "https://github.com/midudev",
+                    "followers_url": "https://api.github.com/users/midudev/followers",
+                    "following_url": "https://api.github.com/users/midudev/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/midudev/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/midudev/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/midudev/subscriptions",
+                    "organizations_url": "https://api.github.com/users/midudev/orgs",
+                    "repos_url": "https://api.github.com/users/midudev/repos",
+                    "events_url": "https://api.github.com/users/midudev/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/midudev/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "created_at": "2026-07-07T20:34:57Z",
+                "updated_at": "2026-07-07T20:34:57Z",
+                "body": "Arreglado \u2705\n\nLos `Symbol` no son clonables por `structuredClone`/`postMessage`, as\u00ed que al enviarlos desde el worker de ejecuci\u00f3n a la UI fallaba la serializaci\u00f3n. Ahora se serializan a su representaci\u00f3n textual (p. ej. `Symbol(foo)`) antes de enviarlos.\n\nFix en midudev/gojs@071b772. Despleg\u00e1ndose en gojs.app.",
+                "pin": null,
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/gojs-issues/issues/comments/4908452338/reactions",
+                    "total_count": 1,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 1,
+                    "eyes": 0
+                },
+                "performed_via_github_app": null
+            }
+        },
+        "public": true,
+        "created_at": "2026-07-07T20:34:57Z"
+    },
+    {
+        "id": "11479496170",
+        "type": "IssuesEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1075271938,
+            "name": "midudev/gojs-issues",
+            "url": "https://api.github.com/repos/midudev/gojs-issues"
+        },
+        "payload": {
+            "action": "closed",
+            "issue": {
+                "url": "https://api.github.com/repos/midudev/gojs-issues/issues/25",
+                "repository_url": "https://api.github.com/repos/midudev/gojs-issues",
+                "labels_url": "https://api.github.com/repos/midudev/gojs-issues/issues/25/labels{/name}",
+                "comments_url": "https://api.github.com/repos/midudev/gojs-issues/issues/25/comments",
+                "events_url": "https://api.github.com/repos/midudev/gojs-issues/issues/25/events",
+                "html_url": "https://github.com/midudev/gojs-issues/issues/25",
+                "id": 4485882907,
+                "node_id": "I_kwDOQBdZAs8AAAABC2EkGw",
+                "number": 25,
+                "title": "No es posible hacer un console.log de Symbol",
+                "user": {
+                    "login": "ordazgustavo",
+                    "id": 25467646,
+                    "node_id": "MDQ6VXNlcjI1NDY3NjQ2",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/25467646?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/ordazgustavo",
+                    "html_url": "https://github.com/ordazgustavo",
+                    "followers_url": "https://api.github.com/users/ordazgustavo/followers",
+                    "following_url": "https://api.github.com/users/ordazgustavo/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/ordazgustavo/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/ordazgustavo/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/ordazgustavo/subscriptions",
+                    "organizations_url": "https://api.github.com/users/ordazgustavo/orgs",
+                    "repos_url": "https://api.github.com/users/ordazgustavo/repos",
+                    "events_url": "https://api.github.com/users/ordazgustavo/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/ordazgustavo/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "closed",
+                "locked": false,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2026-05-20T11:19:54Z",
+                "updated_at": "2026-07-07T20:34:57Z",
+                "closed_at": "2026-07-07T20:34:57Z",
+                "assignee": null,
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "Hacer un console.log de un Symbol falla al no ser serializable\n\n<img width=\"1904\" height=\"802\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/134be207-252a-4b0e-b9e2-091018d9f6c2\" />",
+                "reactions": {
+                    "url": "https://api.github.com/repos/midudev/gojs-issues/issues/25/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/midudev/gojs-issues/issues/25/timeline",
+                "performed_via_github_app": null,
+                "state_reason": "completed",
+                "pinned_comment": null
+            }
+        },
+        "public": true,
+        "created_at": "2026-07-07T20:34:58Z"
+    },
+    {
+        "id": "14424096188",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 354123361,
+            "name": "midudev/midu.link",
+            "url": "https://api.github.com/repos/midudev/midu.link"
+        },
+        "payload": {
+            "repository_id": 354123361,
+            "push_id": 36713387193,
             "ref": "refs/heads/main",
-            "head": "e1e41cadd5c61446310e5c131e4f79053c085f42",
-            "before": "67170d6172433d128b0d3e2248102a613a8bc137"
+            "head": "a4ad9c6497465df9024e09cf7f331a8009182702",
+            "before": "ab6ae4a4f319488d4404acdf06b6db147ceaddd7"
         },
         "public": true,
-        "created_at": "2026-07-01T15:55:05Z"
+        "created_at": "2026-07-06T13:50:31Z"
     },
     {
-        "id": "14177168728",
+        "id": "14423210567",
         "type": "PushEvent",
         "actor": {
-            "id": 91085485,
-            "login": "dgroes",
-            "display_login": "dgroes",
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/dgroes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
         },
         "repo": {
-            "id": 1051390568,
-            "name": "dgroes/retos-programacion-2023",
-            "url": "https://api.github.com/repos/dgroes/retos-programacion-2023"
+            "id": 354123361,
+            "name": "midudev/midu.link",
+            "url": "https://api.github.com/repos/midudev/midu.link"
         },
         "payload": {
-            "repository_id": 1051390568,
-            "push_id": 36466057728,
+            "repository_id": 354123361,
+            "push_id": 36712500945,
             "ref": "refs/heads/main",
-            "head": "67170d6172433d128b0d3e2248102a613a8bc137",
-            "before": "406250156611721dda210d508027859eb2f598e1"
+            "head": "ab6ae4a4f319488d4404acdf06b6db147ceaddd7",
+            "before": "9a645053f838f1b4eb39b6546063aaf27b3e247d"
         },
         "public": true,
-        "created_at": "2026-07-01T15:01:36Z"
+        "created_at": "2026-07-06T13:35:14Z"
     },
     {
-        "id": "13951993764",
-        "type": "CreateEvent",
-        "actor": {
-            "id": 91085485,
-            "login": "dgroes",
-            "display_login": "dgroes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/dgroes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
-        },
-        "repo": {
-            "id": 1281716609,
-            "name": "dgroes/solaris",
-            "url": "https://api.github.com/repos/dgroes/solaris"
-        },
-        "payload": {
-            "ref": "main",
-            "ref_type": "branch",
-            "full_ref": "refs/heads/main",
-            "master_branch": "main",
-            "description": null,
-            "pusher_type": "user"
-        },
-        "public": true,
-        "created_at": "2026-06-26T21:12:36Z"
-    },
-    {
-        "id": "13022894405",
+        "id": "14415365018",
         "type": "PushEvent",
         "actor": {
-            "id": 91085485,
-            "login": "dgroes",
-            "display_login": "dgroes",
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/dgroes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
         },
         "repo": {
-            "id": 1025600668,
-            "name": "dgroes/Python",
-            "url": "https://api.github.com/repos/dgroes/Python"
+            "id": 761334150,
+            "name": "midudev/la-velada-web-oficial",
+            "url": "https://api.github.com/repos/midudev/la-velada-web-oficial"
         },
         "payload": {
-            "repository_id": 1025600668,
-            "push_id": 35312412652,
-            "ref": "refs/heads/master",
-            "head": "4e587848e6c0f9460bdb8fd013afc65ac65534e1",
-            "before": "1b27b86288a9db92651fc41356790c0d8e0a2179"
+            "repository_id": 761334150,
+            "push_id": 36704651514,
+            "ref": "refs/heads/main",
+            "head": "d001ca576f62e0832cef597b1ab47fc15408e961",
+            "before": "b18afe24389954276c3affa740da6212ed6f97b9"
         },
         "public": true,
-        "created_at": "2026-06-09T02:04:28Z"
+        "created_at": "2026-07-06T11:04:14Z"
     },
     {
-        "id": "13006369509",
+        "id": "14415359040",
         "type": "PushEvent",
         "actor": {
-            "id": 91085485,
-            "login": "dgroes",
-            "display_login": "dgroes",
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/dgroes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/91085485?"
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
         },
         "repo": {
-            "id": 1025600668,
-            "name": "dgroes/Python",
-            "url": "https://api.github.com/repos/dgroes/Python"
+            "id": 966081065,
+            "name": "htorresUVa/la-velada-web-oficial",
+            "url": "https://api.github.com/repos/htorresUVa/la-velada-web-oficial"
         },
         "payload": {
-            "repository_id": 1025600668,
-            "push_id": 35295930494,
-            "ref": "refs/heads/master",
-            "head": "1b27b86288a9db92651fc41356790c0d8e0a2179",
-            "before": "1e4c4adb05bdc1fce7276728777f2bd75b45ed77"
+            "repository_id": 966081065,
+            "push_id": 36704645579,
+            "ref": "refs/heads/feat/artist-page-animation",
+            "head": "d92ea6b49ea3bd2dc51b170f4030102f168edd07",
+            "before": "399a1a7721e14402f18587a65447e21d653ba583"
         },
         "public": true,
-        "created_at": "2026-06-08T18:07:02Z"
+        "created_at": "2026-07-06T11:04:06Z"
+    },
+    {
+        "id": "14415350060",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 761334150,
+            "name": "midudev/la-velada-web-oficial",
+            "url": "https://api.github.com/repos/midudev/la-velada-web-oficial"
+        },
+        "payload": {
+            "repository_id": 761334150,
+            "push_id": 36704636546,
+            "ref": "refs/heads/main",
+            "head": "b18afe24389954276c3affa740da6212ed6f97b9",
+            "before": "27174da2cad7176450cac5441b96d1858d0ce9ec"
+        },
+        "public": true,
+        "created_at": "2026-07-06T11:03:55Z"
+    },
+    {
+        "id": "14412831085",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 354123361,
+            "name": "midudev/midu.link",
+            "url": "https://api.github.com/repos/midudev/midu.link"
+        },
+        "payload": {
+            "repository_id": 354123361,
+            "push_id": 36702117124,
+            "ref": "refs/heads/main",
+            "head": "9a645053f838f1b4eb39b6546063aaf27b3e247d",
+            "before": "cc2e3f7103dbe182e56a517f8d6a248d32613c90"
+        },
+        "public": true,
+        "created_at": "2026-07-06T10:12:07Z"
+    },
+    {
+        "id": "11395538819",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1259676981,
+            "name": "PlummersSoftwareLLC/TinyRetroPad",
+            "url": "https://api.github.com/repos/PlummersSoftwareLLC/TinyRetroPad"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2026-07-06T08:23:29Z",
+        "org": {
+            "id": 83871427,
+            "login": "PlummersSoftwareLLC",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/PlummersSoftwareLLC",
+            "avatar_url": "https://avatars.githubusercontent.com/u/83871427?"
+        }
+    },
+    {
+        "id": "14387527916",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1290205671,
+            "name": "midudev/mundial-de-clicks",
+            "url": "https://api.github.com/repos/midudev/mundial-de-clicks"
+        },
+        "payload": {
+            "repository_id": 1290205671,
+            "push_id": 36676796052,
+            "ref": "refs/heads/main",
+            "head": "fcc7cf24a52602618df36bb1edcdab94d1af67f9",
+            "before": "6bfe99b79f3577616cd8678fbb0235217b1f4169"
+        },
+        "public": true,
+        "created_at": "2026-07-05T22:17:37Z"
+    },
+    {
+        "id": "14386871710",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1290205671,
+            "name": "midudev/mundial-de-clicks",
+            "url": "https://api.github.com/repos/midudev/mundial-de-clicks"
+        },
+        "payload": {
+            "repository_id": 1290205671,
+            "push_id": 36676138891,
+            "ref": "refs/heads/main",
+            "head": "6bfe99b79f3577616cd8678fbb0235217b1f4169",
+            "before": "645f7e3fde20b7630e421dd85f53893971b06077"
+        },
+        "public": true,
+        "created_at": "2026-07-05T21:53:31Z"
+    },
+    {
+        "id": "14386782673",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1290205671,
+            "name": "midudev/mundial-de-clicks",
+            "url": "https://api.github.com/repos/midudev/mundial-de-clicks"
+        },
+        "payload": {
+            "repository_id": 1290205671,
+            "push_id": 36676049747,
+            "ref": "refs/heads/main",
+            "head": "645f7e3fde20b7630e421dd85f53893971b06077",
+            "before": "610907566ef3cc9c0e18eac2aedcc57698129290"
+        },
+        "public": true,
+        "created_at": "2026-07-05T21:49:57Z"
+    },
+    {
+        "id": "14386629342",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1290205671,
+            "name": "midudev/mundial-de-clicks",
+            "url": "https://api.github.com/repos/midudev/mundial-de-clicks"
+        },
+        "payload": {
+            "repository_id": 1290205671,
+            "push_id": 36675896035,
+            "ref": "refs/heads/main",
+            "head": "610907566ef3cc9c0e18eac2aedcc57698129290",
+            "before": "0bf00804eb95fa9b53e6847ed6ca1e6b3bc01329"
+        },
+        "public": true,
+        "created_at": "2026-07-05T21:43:56Z"
+    },
+    {
+        "id": "14386309130",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1290205671,
+            "name": "midudev/mundial-de-clicks",
+            "url": "https://api.github.com/repos/midudev/mundial-de-clicks"
+        },
+        "payload": {
+            "repository_id": 1290205671,
+            "push_id": 36675575415,
+            "ref": "refs/heads/main",
+            "head": "0bf00804eb95fa9b53e6847ed6ca1e6b3bc01329",
+            "before": "e1b6a32d24062b030b83450230f78a2f8cb4795b"
+        },
+        "public": true,
+        "created_at": "2026-07-05T21:31:45Z"
+    },
+    {
+        "id": "14386030750",
+        "type": "PushEvent",
+        "actor": {
+            "id": 1561955,
+            "login": "midudev",
+            "display_login": "midudev",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/midudev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1561955?"
+        },
+        "repo": {
+            "id": 1290205671,
+            "name": "midudev/mundial-de-clicks",
+            "url": "https://api.github.com/repos/midudev/mundial-de-clicks"
+        },
+        "payload": {
+            "repository_id": 1290205671,
+            "push_id": 36675296789,
+            "ref": "refs/heads/main",
+            "head": "e1b6a32d24062b030b83450230f78a2f8cb4795b",
+            "before": "c3e2de15e16233cccab39a786b91bed960ff87ed"
+        },
+        "public": true,
+        "created_at": "2026-07-05T21:21:07Z"
     }
 ]
